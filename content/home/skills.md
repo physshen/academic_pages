@@ -22,11 +22,11 @@ feature:
   name: Python
 - description: 90%
   icon: vials
-  icon_pack: fab
+  icon_pack: fas
   name: Nanofabrication
 - description: 100%
   icon: edit
-  icon_pack: fab
+  icon_pack: fas
   name: Simulation
 
 # Uncomment to use emoji icons.
