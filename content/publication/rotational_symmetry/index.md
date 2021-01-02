@@ -4,7 +4,7 @@ authors:
 - Tianzhong Yuan
 - Da Jiang
 - Huanyi Xue
-- **Zongqi Shen**
+- Zongqi Shen
 - Lijie Wang
 - Junwei Ma
 - Guanqun Zhang
