@@ -54,7 +54,7 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-05-01'
     description: |2-
-        * Synthesized high quality Bi 2SeO 3sample using chemical vapor deposition method (CVD)
+        * Synthesized high quality $Bi_{2}SeO_{3}$ sample using chemical vapor deposition method (CVD)
         * Peeled off single-layered graphene for heterostructure fabrication 
         * Helped establish a platform for stacking layers of 2D materials controlled by LabView 
         * Received technical training in device fabrication and transport measurementTaught electronic         engineering and researched semiconductor physics
