@@ -49,8 +49,8 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,7 +60,6 @@ highlight_name: false
 ---
 
 Zongqi Shen is a physics junior in Fudan University. His research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice especially in unconventional superconductors. 
-
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
