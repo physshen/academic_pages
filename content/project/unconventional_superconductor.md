@@ -1,6 +1,6 @@
 ---
 reading_time: false
-summary: Here we describe how to add a page to your site.
+summary: ""
 profile: false
 header:
   caption: ""
