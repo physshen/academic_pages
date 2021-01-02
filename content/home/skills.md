@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Material Growth and Nanofabrication
 - description: 100%
-  icon: ruler-horizontal
-  icon_pack: far
+  icon: bezier-curve
+  icon_pack: fas
   name: Transport Measurement
 
 # Uncomment to use emoji icons.
