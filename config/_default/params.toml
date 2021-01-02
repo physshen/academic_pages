@@ -66,7 +66,7 @@ math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = true
+diagram = false
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -113,11 +113,8 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
  # {icon = "github", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:shenzongqi2000_1"},
- # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
- # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:shenzongqi2000_1"}
+ ]
 
 ############################
 ## Social
