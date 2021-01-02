@@ -6,7 +6,7 @@ title: Zongqi Shen
 superuser: true
 
 # Role/position/tagline
-role: Undergraudate Researcher
+role: Undergraudate Researcher in Condensed Matter Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.fudan.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include superconductivity, twisted bilayer graphene and topological materials.
+bio: Combine experiments and theory to explore exotic quantum phases
 
 # Interests to show in About widget
 interests:
@@ -48,9 +48,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-#- icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,8 +59,8 @@ email: ""
 highlight_name: false
 ---
 
-Zongqi Shen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zongqi Shen is a physics junior in Fudan University. His research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice especially in unconventional superconductors. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
