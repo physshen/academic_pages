@@ -19,15 +19,15 @@ feature:
 - description: 80%
   icon: python
   icon_pack: fab
-  name: Python
+  name: Quantum Transport Simulation
 - description: 90%
   icon: vials
   icon_pack: fas
-  name: Nanofabrication
+  name: Material Growth and Nanofabrication
 - description: 100%
-  icon: edit
-  icon_pack: fas
-  name: Simulation
+  icon: ruler-horizontal
+  icon_pack: far
+  name: Transport Measurement
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
