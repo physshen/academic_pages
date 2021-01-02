@@ -37,7 +37,7 @@ experience:
             explanation of similar results reported in Nature 547, 432–435 (2017) 
         * Gained rich experience in combining experiments with theories to better understand interplay between
             magnetism and superconductivity     
-                 
+
   - title: Professor
     company: University X
     company_url: ''
@@ -46,7 +46,7 @@ experience:
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-    - title: CEO
+  - title: CEO
     company: GenCoin
     company_url: ''
     location: California
