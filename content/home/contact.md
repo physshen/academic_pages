@@ -4,6 +4,6 @@ active = true
 date = ""
 title = "Contact"
 subtitle = ""
-weight = 70
+weight = 80
 autolink = true
 +++
