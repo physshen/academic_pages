@@ -4,7 +4,7 @@ authors:
 - Tianzhong Yuan
 - Da Jiang
 - Huanyi Xue
-- Zongqi Shen
+- **Zongqi Shen**
 - Lijie Wang
 - Junwei Ma
 - Guanqun Zhang
@@ -33,10 +33,10 @@ publication_types: ["3"]
 publication: "Submitted to Nature"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The search for exotic superconductors with high transition temperature ($T_{C}$) is a challenging task in condensed matter physics and materials science. Among them, the ferromagnetic superconductors with time-reversal symmetry breaking could display intrinsic coexistence of ferromagnetism and superconductivity, and has been extensively discussed in heavy fermions and non-centrosymmetric compounds. The correlation between ferromagnetism and superconductivity in these materials, however, remains elusive. Here, we report an experimental observation of intrinsic ferromagnetic superconductivity in high quality spinel oxide $LiTi_{2}O_{4}$ thin films. The spontaneous ferromagnetism with time-reversal symmetry breaking is found to coincide with the onset of superconductivity at $T_{C}$ of 13 K. Furthermore, spontaneous rotational symmetry breaking from four-fold to two-fold is also observed at the verge of its superconductivity in angular resolved transverse electrical resistance. These experimental findings suggest that $LiTi_{2}O_{4}$ is an unconventional superconductor with non-unitary triplet pairing. Our work sheds new light into exploring the interplay between magnetism and superconductivity in unconventional superconductors.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We report an experimental observation of intrinsic ferromagnetic superconductivity and spontaneous rotational symmetry breaking in high quality spinel oxide $LiTi_{2}O_{4}$ thin films.
 
 
 featured: true
@@ -66,5 +66,5 @@ projects: [unconventional_superconductor]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
