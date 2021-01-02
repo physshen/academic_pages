@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: "phase_diagram"
+  caption: Phase diagram of high-temperature superconductor
+  image: phase_diagram
 ---
 
 Hello
