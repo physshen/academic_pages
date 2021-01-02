@@ -36,8 +36,8 @@ experience:
         * Proposed a topological origin of the two-fold symmetry in transverse resistance, which provided a new
             explanation of similar results reported in Nature 547, 432–435 (2017) 
         * Gained rich experience in combining experiments with theories to better understand interplay between
-magnetism and superconductivity
-             
+            magnetism and superconductivity     
+                 
   - title: Professor
     company: University X
     company_url: ''
