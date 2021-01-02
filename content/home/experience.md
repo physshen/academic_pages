@@ -29,33 +29,35 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-20'
     description: |2-
-        Responsibilities include:
-        
         * Used group theory to analyze the pairing symmetry in our sample and help explain the coexistence of
            ferromagnetism and superconductivity 
         * Proposed a topological origin of the two-fold symmetry in transverse resistance, which provided a new
             explanation of similar results reported in Nature 547, 432–435 (2017) 
         * Gained rich experience in combining experiments with theories to better understand interplay between
-            magnetism and superconductivity     
+            magnetism and superconductivity    
 
-  - title: Professor
-    company: University X
+  - title: Research on fingerprints of Majorana zero mode in topological superconductors
+    company: Supervised by Prof. Wei Li
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Artificial Interface Lab, Fudan University
+    date_start: '2019-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+       * Used nonequilibrium Green’s function method (NEGF) and analytical methods to calculate the transport
+         properties of p+ip and d+id superconductors 
+       * Proposed that transport measurements can be utilized to identify the existence of Majorana zero mode in p+ip and d+id superconductors 
+       * Received systematic training in the theory of superconductivity
+  - title: Research on 2D materials and device fabrication
+    company: Supervised by Prof. Faxian Xiu
+    company_url: ''
+    location: Nanodevice Lab, Fudan University
+    date_start: '2018-11-01'
+    date_end: '2019-05-01'
+    description: |2-
+        * Synthesized high quality Bi 2SeO 3sample using chemical vapor deposition method (CVD)
+        * Peeled off single-layered graphene for heterostructure fabrication 
+        * Helped establish a platform for stacking layers of 2D materials controlled by LabView 
+        * Received technical training in device fabrication and transport measurementTaught electronic         engineering and researched semiconductor physics
+
+  
 ---
