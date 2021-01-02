@@ -9,9 +9,9 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
-header:
+image:
   caption: Phase diagram of high-temperature superconductor
-  image: phase_diagram
+  focal_point: Smart
 ---
 
 
