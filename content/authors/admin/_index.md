@@ -20,7 +20,7 @@ bio: Combine experiments and theory to explore exotic quantum phases
 interests:
 - Unconventional Superconductivity
 - Majorana Zero Mode
-- Interplay among spin, orbital, charge and lattice especially on the interface
+- Twisted Bilayer Graphene
 
 # Education to show in About widget
 education:
