@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "phase_diagram.png"
+  image: "phase_diagram"
 ---
 
-Add your *content* here...
+Hello
