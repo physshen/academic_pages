@@ -57,7 +57,7 @@ experience:
         * Synthesized high quality $Bi_{2}SeO_{3}$ sample using chemical vapor deposition method (CVD)
         * Peeled off single-layered graphene for heterostructure fabrication 
         * Helped establish a platform for stacking layers of 2D materials controlled by LabView 
-        * Received technical training in device fabrication and transport measurementTaught electronic         engineering and researched semiconductor physics
+        * Received technical training in device fabrication and transport measurement
 
   
 ---
