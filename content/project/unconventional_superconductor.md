@@ -6,11 +6,10 @@ header:
   caption: ""
   image: ""
 date: 2021-01-02T11:38:18.493Z
-external_link: https://physshen.netlify.app/project/unconventional_superconductor/
+external_link:""
 comments: false
 title: Unconventional Superconductor
-image:
-  filename: phase_diagram.png
+image: "phase_diagram.png"
 share: false
 ---
 
