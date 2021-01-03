@@ -13,7 +13,7 @@ organizations:
   url: https://www.fudan.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Combine experiments and theory to explore exotic quantum phases
+bio: Undergraduate researcher at Fudan University
 
 # Interests to show in About widget
 interests:
