@@ -6,8 +6,7 @@ title: Zongqi Shen
 superuser: true
 
 # Role/position/tagline
-role: Undergraudate Researcher in Condensed Matter Physics
-
+role: Undergraudate Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Fudan University
@@ -59,7 +58,7 @@ email: ""
 highlight_name: false
 ---
 
-Zongqi Shen is a physics junior in Fudan University. His research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice especially in unconventional superconductors. 
+I am a physics junior in Fudan University. My research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice. My current research interests are [unconventional superconductivity]({{< ref "project/unconventional_superconductor/" >}}) and [twisted bilayer graphene]({{< ref "project/twisted_bilayer_graphene/" >}}).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
