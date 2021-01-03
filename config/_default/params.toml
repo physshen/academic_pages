@@ -56,7 +56,7 @@ description = ""
 
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
-highlight = true
+highlight = false
 highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
@@ -93,7 +93,7 @@ phone = "+8617721298365"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "220 Handan Rd", city = "Shanghai", region = "Yangpu", postcode = "200433", country = "China", country_code = "CN"}
+address = {street = "220 Handan Rd", city = "Shanghai", region = "Yangpu District", postcode = "200433", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
