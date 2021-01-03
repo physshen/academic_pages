@@ -63,4 +63,4 @@ I am a physics junior at Fudan University. My research aims to harness experimen
 My current research interests are [unconventional superconductivity]({{< ref "project/unconventional_superconductor/index.md" >}}) and [twisted bilayer graphene]({{< ref "project/twisted_bilayer_graphene/index.md" >}}).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
