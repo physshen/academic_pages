@@ -58,7 +58,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a physics junior in Fudan University. My research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice. My current research interests are [unconventional superconductivity]({{< ref "project/unconventional_superconductor/" >}}) and [twisted bilayer graphene]({{< ref "project/twisted_bilayer_graphene/" >}}).
+I am a physics junior in Fudan University. My research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice. My current research interests are [unconventional superconductivity]({{< ref "project/unconventional_superconductor/index.md" >}}) and [twisted bilayer graphene]({{< ref "project/twisted_bilayer_graphene/index.md" >}}).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
