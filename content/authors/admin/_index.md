@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zongqi Shen
+title: Zong-Qi Shen
 
 # Is this the primary user of the site?
 superuser: true
