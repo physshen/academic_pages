@@ -8,9 +8,9 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-#image:
-#  caption: TBG
-#  focal_point: Smart
+image:
+  caption: TBG
+  focal_point: Smart
 ---
 
 
