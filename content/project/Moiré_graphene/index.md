@@ -1,5 +1,5 @@
 ---
-title: Moiré Graphene
+title: Moire Graphene
 summary: 
 date: "2021-01-02T00:00:00Z"
 
