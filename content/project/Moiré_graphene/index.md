@@ -1,5 +1,5 @@
 ---
-title: Moire Graphene
+title: Moiré Graphene
 summary: 
 date: "2021-01-02T00:00:00Z"
 
@@ -8,9 +8,9 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-image:
-  caption: TBG
-  focal_point: Smart
+#image:
+#  caption: TBG
+#  focal_point: Smart
 ---
 
 
