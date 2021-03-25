@@ -9,7 +9,7 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 
 image:
-  caption: Delocalization in TBG
+  caption: TBG
   focal_point: Smart
 ---
 
