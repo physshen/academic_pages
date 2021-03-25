@@ -17,9 +17,9 @@ bio: Undergraduate researcher at Fudan University
 
 # Interests to show in About widget
 interests:
-- Unconventional Superconductivity
-- Majorana Zero Mode
-- Twisted Bilayer Graphene
+- Emergent phenomena at oxide interfaces
+- Topological superconductors
+- Moiré Graphene
 
 # Education to show in About widget
 education:
