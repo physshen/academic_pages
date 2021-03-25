@@ -1,5 +1,5 @@
 ---
-title: Majorana Zero Mode in 2D Superconductor
+title: Finite-size effects on the zero-bias peak
 summary: 
 date: "2021-01-02T00:00:00Z"
 
