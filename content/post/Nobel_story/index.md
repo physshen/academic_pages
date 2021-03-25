@@ -6,7 +6,7 @@ subtitle: the discovery of high-$T_C$ superconductors
 summary: Lesson I learn in the Nobel lecture given by J. Georg Bednorz
 
 # Link this post with a project
-projects: [project/unconventional_superconductor]
+projects: [unconventional_superconductor]
 
 # Date published
 date: "2021-03-25T00:00:00Z"
