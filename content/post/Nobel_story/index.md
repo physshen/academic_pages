@@ -1,18 +1,18 @@
 ---
-title: Lessons from 1987 Nobel Lectures
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Lessons from the Nobel Prize in Physics 1987
+subtitle: the discovery of high-$T_C$ superconductors
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Lesson I learn in the Nobel lecture given by J. Georg Bednorz
 
 # Link this post with a project
-projects: []
+projects: [project/unconventional_superconductor]
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2021-03-25T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-03-25T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo from the Nobel Foundation archive'
   focal_point: ""
   placement: 2
   preview_only: false
