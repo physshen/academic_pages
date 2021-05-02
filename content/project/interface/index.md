@@ -12,10 +12,10 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/media/` folder).
-#image:
-#  caption: Phase diagram of high-temperature superconductor
-#  focal_point: Smart
+#Optional header image (relative to `static/media/` folder).
+image:
+  caption: Phase diagram of high-temperature superconductor
+  focal_point: Smart
 ---
 
 
