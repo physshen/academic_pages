@@ -1,8 +1,10 @@
 ---
-title: Finite-size effects on the zero-bias peak
-summary: 
+title: Finite-size effects of Majorana zero mode
+summary: study the Finite-size effects of the zero-bias peak in topological superconductors
 date: "2021-01-02T00:00:00Z"
-
+tags:
+  - Superconductivity
+  - Topology
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
