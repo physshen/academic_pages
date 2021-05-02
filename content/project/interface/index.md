@@ -1,6 +1,6 @@
 ---
 title: Unconventional Superconductor
-summary: 
+summary: condensed
 date: "2021-01-02T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
