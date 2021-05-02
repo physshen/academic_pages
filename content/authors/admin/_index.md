@@ -58,7 +58,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a physics junior at Fudan University({{< ref https://www.fudan.edu.cn/en/ >}}). My research focuses on understanding the emergent phenomena and in strongly correlated electronic systems due to the interplay between charge, spin, lattice and orbital. I approach this goal by engaging in both experimental characterization of exotic materials and theoretical modeling.
+I am a physics junior at Fudan University({{< ref 'https://www.fudan.edu.cn/en/' >}}). My research focuses on understanding the emergent phenomena and in strongly correlated electronic systems due to the interplay between charge, spin, lattice and orbital. I approach this goal by engaging in both experimental characterization of exotic materials and theoretical modeling.
 
 My current research projects are [interface superconductivity]({{< ref "project/interface/index.md" >}}) and STM study of [Moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}).
 
