@@ -26,7 +26,7 @@ education:
   courses:
   - course: BSc in Physics
     institution: Fudan University
-    year: 2018-Present
+    year: 2018-present
 
 
 # Social/Academic Networking
@@ -58,9 +58,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a physics junior at Fudan University. My research aims to harness experimental techniques with the aid of theoretical predictions to better understand the interplay among spin, charge, orbital and lattice. 
+I am a physics junior at Fudan University({{< ref https://www.fudan.edu.cn/en/ >}}). My research focuses on understanding the emergent phenomena and in strongly correlated electronic systems due to the interplay between charge, spin, lattice and orbital. I approach this goal by engaging in both experimental characterization of exotic materials and theoretical modeling.
 
-My current research interests are [unconventional superconductivity]({{< ref "project/unconventional_superconductor/index.md" >}}) and [Moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}).
+My current research projects are [interface superconductivity]({{< ref "project/interface/index.md" >}}) and STM study of [Moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}).
 
 
 
