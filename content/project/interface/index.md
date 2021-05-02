@@ -1,6 +1,6 @@
 ---
-title: Interface Superconductivity
-summary: Kagome lattice
+title: Complex Interfaces
+summary: Kagome lattice interfaces
 date: "2021-05-01T00:00:00Z"
 
 tags:
@@ -14,7 +14,7 @@ comments: false  # Show comments?
 
 #Optional header image (relative to `static/media/` folder).
 image:
-  caption: Phase diagram of high-temperature superconductor
+  caption: Kagome lattice
   focal_point: Smart
 ---
 
