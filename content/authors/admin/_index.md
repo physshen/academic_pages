@@ -38,7 +38,7 @@ social:
   icon_pack: fas
   link: 'mailto:zqshen18@fudan.edu.cn'
 - icon: skype
-  icon_pack: fas
+  icon_pack: fab
   link: 'skype:live:.cid.6b0b2362e5253e19?call'
 - icon: github
   icon_pack: fab
