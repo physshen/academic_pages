@@ -14,7 +14,7 @@ comments: false  # Show comments?
 
 #Optional header image (relative to `static/media/` folder).
 image:
-  caption: Copied from ‘Oxide interfaces: pathways to novel phenomena’
+  caption: Copied from ‘Oxide interfaces-pathways to novel phenomena’
   focal_point: Smart
 ---
 
