@@ -40,5 +40,5 @@ categories:
 - science
 ---
 
-[Moiré graphene]({{< ref "static/media/bednorz-muller-lecture.pdf" >}})
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/bednorz-muller-lecture.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ## Overview
