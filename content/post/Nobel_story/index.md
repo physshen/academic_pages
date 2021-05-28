@@ -40,5 +40,5 @@ categories:
 - science
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/bednorz-muller-lecture.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Bednorz and Müller's {{< staticref "media/bednorz-muller-lecture.pdf" "newtab" >}}Nobel lecture{{< /staticref >}}.
 ## Overview
