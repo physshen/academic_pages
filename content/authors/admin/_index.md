@@ -63,5 +63,5 @@ I am a physics junior at [Fudan University](https://www.fudan.edu.cn/en/). My re
 
 My current research projects are [interfacial superconductivity]({{< ref "project/interface/index.md" >}}) and STM study of [Moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}).
 
-
+ Download Bednorz and Müller's {{< staticref "media/resume.pdf" "newtab" >}}{{< icon name="cv" pack="ai" >}}{{< /staticref >}}.
 
