@@ -29,7 +29,7 @@ experience:
     date_start: '2021-01-01'
     date_end: 'Present'
     description: |2-
-        *	Grew and optimized single crystal oxide thin films on SrTiO_3 (111) substrates with pulsed-laser deposition
+        *	Grew and optimized single crystal oxide thin films on $SrTiO_{3}$ (111) substrates with pulsed-laser deposition
 	      * Studied the transport and magnetic properties of the heterointerface at low temperatures
         * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance
         * Currently working in search for ferromagnetic insulator in double perovskite thin films and possible superconducting phase via voltage gating
