@@ -53,7 +53,7 @@ experience:
     company_url: ''
     location: Artificial Interface Lab, Fudan University
     date_start: '2019-05-01'
-    date_end: ''
+    date_end: '2020-09-01'
     description: |2-
        * Used nonequilibrium Green’s function method (NEGF) and analytical methods to calculate the transport
          properties of p+ip and d+id superconductors 
