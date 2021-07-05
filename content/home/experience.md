@@ -22,18 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Two-dimensional superconductivity at oxide interfaces 
-    company: Supervised by Prof. Wei Li
-    company_url: ''
-    location: Artificial Interface Lab, Fudan University
-    date_start: '2021-01-01'
-    date_end: 'Present'
-    description: |2-
-        *	Grew and optimized single crystal oxide thin films on $SrTiO_{3}$ (111) substrates with pulsed-laser deposition
-        * Studied the transport and magnetic properties of the heterointerface at low temperatures
-        * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance
-        * Currently working in search for ferromagnetic insulator in double perovskite thin films and possible superconducting phase via voltage gating
-    
   - title: Research on time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li
     company_url: ''
