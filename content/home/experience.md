@@ -34,7 +34,6 @@ experience:
         * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance
         * Currently working in search for ferromagnetic insulator in double perovskite thin films and possible superconducting phase via voltage gating
     
-experience:
   - title: Research on time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li
     company_url: ''
