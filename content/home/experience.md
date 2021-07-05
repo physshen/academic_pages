@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Artificial Interface Lab, Fudan University
     date_start: '2021-01-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         *	Grew and optimized single crystal oxide thin films on substrates with pulsed-laser deposition
         * Studied the transport and magnetic properties of the heterointerface at low temperatures
