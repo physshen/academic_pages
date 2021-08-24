@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Open-source, see my [GitHub profile <em class='fab fa-github fa-fw'> </em>](https://github.com/basnijholt)"
+
 
 [content]
   # Page type to display. E.g. project.
@@ -26,20 +26,25 @@ subtitle = "Open-source, see my [GitHub profile <em class='fab fa-github fa-fw'>
     tag = "*"
 
   [[content.filter_button]]
-    name = "python"
-    tag = "Python"
+    name = "theory"
+    tag = "Theoretical"
 
   [[content.filter_button]]
-    name = "home-automation"
-    tag = "Home automation"
+    name = "experiment"
+    tag = "Experimental"
 
   [[content.filter_button]]
-    name = "education"
-    tag = "Education"
+    name = "topology"
+    tag = "Topology"
 
   [[content.filter_button]]
-    name = "parallel-computing"
-    tag = "Parallel computing"
+    name = "superconductivity"
+    tag = "Superconductivity"
+
+  [[content.filter_button]]
+    name = "moiré"
+    tag = "Moiré"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
