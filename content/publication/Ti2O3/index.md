@@ -1,9 +1,14 @@
 ---
 title: "Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor"
 authors:
-- Jiahui Qian
+- Lijie Wang
+- Huanyi Xue
+- Guanqun Zhang
 - Zongqi Shen
-- Xinyuan Wei
+- Gang Mu
+- Shiwei Wu
+- Zhenghua An
+- Yan Chen
 - Wei Li
 
 date: "2021-07-13T00:00:00Z"

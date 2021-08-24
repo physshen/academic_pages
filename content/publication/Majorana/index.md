@@ -1,5 +1,5 @@
 ---
-title: "Andreev Reﬂection of Quasi-one-dimensional Topological Superconductor as Fingerprints of Localized Majorana Zero Mode"
+title: "Finite size effects of the zero-bias peak in topological superconsuctors"
 authors:
 - Zongqi Shen
 - Wei Li
@@ -22,21 +22,19 @@ publication_short: ""
 abstract: Topological superconductors are predicted to be platform for Majorana zero modes which are expected to realize topological quantum computing. However, dispersive chiral Majorana edge modes, being extended, can not be utilized for quantum computing. In this work, we show that the quasi-one-dimensional $p_{x}+i p_{y}$ superconductor can host localized Majorana zero modes and can be detected via Andreev reﬂection. Quantized zero-bias peak(ZBP) is observed in quasi-one-dimensional N-S junction and 2D open N-S-N systems in quasi-1D limit. We show that the ZBP is rubust againt contact barrier and thus topologically protected. These ﬁndings not only initiate new platforms for localized Majorana zero modes, but also provide an avenue for probing the pairing symmetry of topological superconductors via Andreev reﬂection experiements.
 
 # Summary. An optional shortened abstract.
-summary: We have shown that localized Majorana zero modes not only exist in strict 1D systems, but also 2D $p_{x}+i p_{y}$ superconductors in quasi-one-dimensional limit.
-tags:
-- Source Themes
-featured: true
+summary: 
 
-# links:
-# - name: ""
-#   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+
+
+featured: false
+
+
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Andreev Reflection'
+  caption: ''
   focal_point: ""
   preview_only: false
 
