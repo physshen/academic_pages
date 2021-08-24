@@ -32,7 +32,8 @@ featured: false
 
 
 url_pdf: "https://arxiv.org/pdf/2108.10063.pdf"
-url_preprint: "https://arxiv.org/abs/1903.06168"
+url_preprint: "https://arxiv.org/abs/2108.10063"
+links: [{name: "arXiv:2108.10063", url: "https://arxiv.org/abs/2108.10063"}]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

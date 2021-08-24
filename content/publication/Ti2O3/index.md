@@ -1,0 +1,76 @@
+---
+title: "Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor"
+authors:
+- Jiahui Qian
+- Zongqi Shen
+- Xinyuan Wei
+- Wei Li
+
+date: "2021-07-13T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: ""
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Submitted to *Science*"
+publication_short: ""
+
+abstract: "Heterointerfaces with symmetry breaking and strong interfacial coupling
+could give rise to the enormous exotic quantum phenomena. Here, we report on
+the experimental observation of intriguing two-dimensional superconductivity
+with superconducting transition temperature (Tc) of 3.8 K at heterostructure of
+Mott insulator Ti2O3 and polar semiconductor GaN revealed by the electrical
+transport and magnetization measurements. Furthermore, at the verge of
+superconductivity we find a wide range of temperature independent resistance
+associated with vanishing Hall resistance, demonstrating the emergence of
+quantum metallic-like state with the Bose-metal scenario of the metallic phase. By
+tuning the thickness of Ti2O3 films, the emergence of quantum metallic-like state
+accompanies with the appearance of superconductivity as decreasing in
+temperature, implying that the two-dimensional superconductivity is evolved from
+the quantum metallic-like state driven by the cooperative effects of the electron
+correlation and the interfacial coupling between Ti2O3 and polar GaN. These
+findings provide a new platform for the study of intriguing two-dimensional
+superconductivity with a delicate interplay of the electron correlation and the
+interfacial coupling at the heterostructures, and unveil the clues of the mechanism
+of unconventional superconductivity"
+
+# Summary. An optional shortened abstract.
+summary: We report two-dimensional superconductivity at heterostructure of
+Mott insulator $Ti_{2}O_{3}$ and polar semiconductor GaN revealed by the electrical
+transport and magnetization measurements.
+
+
+featured: false
+
+
+url_pdf: "https://arxiv.org/pdf/2106.06948.pdf"
+url_preprint: "https://arxiv.org/abs/2106.06948"
+links: [{name: "arXiv:2106.06948", url: "https://arxiv.org/abs/2106.06948"}]
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: [interface]
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
