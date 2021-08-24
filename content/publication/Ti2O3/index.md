@@ -42,9 +42,7 @@ interfacial coupling at the heterostructures, and unveil the clues of the mechan
 of unconventional superconductivity"
 
 # Summary. An optional shortened abstract.
-summary: We report two-dimensional superconductivity at heterostructure of
-Mott insulator $Ti_{2}O_{3}$ and polar semiconductor GaN revealed by the electrical
-transport and magnetization measurements.
+summary: 
 
 
 featured: false
