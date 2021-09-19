@@ -1,5 +1,5 @@
 ---
-title: "Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor"
+title: "Two-dimensional superconductivity in heterostructure of titanium sesquioxide"
 authors:
 - Lijie Wang
 - Huanyi Xue
@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to *Science*"
+publication: "Submitted to *Nature*"
 publication_short: ""
 
 abstract: "Heterointerfaces with symmetry breaking and strong interfacial coupling
