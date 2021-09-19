@@ -34,7 +34,7 @@ experience:
         * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance
         * Currently working in search for ferromagnetic insulator in double perovskite thin films and possible superconducting phase via voltage gating
 
-  - title: Research on time-reversal and rotational symmetry breaking in superconductors
+  - title: Time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li
     company_url: ''
     location: Artificial Interface Lab, Fudan University
@@ -48,7 +48,7 @@ experience:
         * Gained rich experience in combining experiments with theories to better understand interplay between
             magnetism and superconductivity    
 
-  - title: Research on fingerprints of Majorana zero mode in topological superconductors
+  - title: Fingerprints of Majorana zero mode in topological superconductors
     company: Supervised by Prof. Wei Li
     company_url: ''
     location: Artificial Interface Lab, Fudan University
@@ -59,7 +59,7 @@ experience:
          properties of p+ip and d+id superconductors 
        * Proposed that transport measurements can be utilized to identify the existence of Majorana zero mode in p+ip and d+id superconductors 
        * Received systematic training in the theory of superconductivity
-  - title: Research on 2D materials and device fabrication
+  - title: CVD growth of 2D materials and device fabrication
     company: Supervised by Prof. Faxian Xiu
     company_url: ''
     location: Nanodevice Lab, Fudan University
