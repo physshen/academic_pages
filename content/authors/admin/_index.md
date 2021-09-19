@@ -27,10 +27,10 @@ education:
   courses:
   - course: BSc in Physics
     institution: Fudan University
-    year: 2018-present
+    year: 09/2018-present
   - course: Research Internship
     institution: University of California, Berkeley
-    year: Aug,2021-present
+    year: 08/2021-present
 
 
 # Social/Academic Networking
@@ -65,7 +65,7 @@ highlight_name: false
 
 I am a physics junior at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena due to the interplay between charge, spin, lattice and orbital in strongly correlated electron systems. I approach this goal by engaging in both experimental characterization of exotic materials and theoretical modeling.
 
-I am working on STM/STS study of [moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}) and transition metal dichalcogenidesz(TMDC) at [Crommie group](https://crommie.berkeley.edu/). My previous work foucused on [unconventional superconductivity in oxide interfaces]({{< ref "project/Ti2O3/index.md" >}}).
+I am working on STM/STS study of [moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}) and transition metal dichalcogenidesz(TMDC) at [Crommie group](https://crommie.berkeley.edu/). My previous work foucused on unconventional superconductivity at [oxide interfaces]({{< ref "project/Ti2O3/index.md" >}}).
 
 {{< icon name="download" pack="fas" >}}Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
