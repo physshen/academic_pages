@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: STM study of moiré graphene and TMDC materials
-    company: Visiting Student Researcher supervised by Prof. Michael Crommie, UC Berkeley
+    company: Visiting Student Researcher supervised by Prof. Michael Crommie
     company_url: 'https://crommie.berkeley.edu/'
     location: Crommie Group, UC Berkeley
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
         *	Learned and mastered the use of STM to image the electronic structure of materials
-        * Characterized twisted mono-bilayer graphene and TMDC samples (TaSe_2,NbSe_2,FeTe_2  etc.).
+        * Characterized twisted mono-bilayer graphene and TMDC samples ($TaSe_{2}$,$NbSe_{2}$,$FeTe_{2}$  etc.).
         * Currently working on nontrivial topology in twisted mono-bilayer graphene
 
   - title: Two-dimensional superconductivity at oxide interfaces 
     company: Supervised by Prof. Wei Li
-    company_url: ''
+    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2021-01-01'
     date_end: ''
@@ -47,7 +47,7 @@ experience:
 
   - title: Time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li
-    company_url: ''
+    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2020-09-01'
     date_end: '2020-12-20'
@@ -61,7 +61,7 @@ experience:
 
   - title: Fingerprints of Majorana zero mode in topological superconductors
     company: Supervised by Prof. Wei Li
-    company_url: ''
+    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2019-05-01'
     date_end: '2020-09-01'
@@ -72,7 +72,7 @@ experience:
        * Received systematic training in the theory of superconductivity
   - title: CVD growth of 2D materials and device fabrication
     company: Supervised by Prof. Faxian Xiu
-    company_url: ''
+    company_url: 'http://www.physics.fudan.edu.cn/tps/people/fxxiu/'
     location: Nanodevice Lab, Fudan University
     date_start: '2018-11-01'
     date_end: '2019-05-01'
