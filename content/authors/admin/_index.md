@@ -19,7 +19,7 @@ bio: Undergraduate researcher at Fudan University
 interests:
 - Strongly correlated electron systems
 - Moiré graphene and TMDC materials
-- Unconventional superconductors
+- Unconventional superconductors and topological superconductivity
 
 # Education to show in About widget
 education:
