@@ -17,10 +17,10 @@ bio: Undergraduate researcher at Fudan University
 
 # Interests to show in About widget
 interests:
-- STM study of moiré graphene and TMDC
-- Emergent phenomena at oxide interfaces
-- Unconventional superconductors
-
+- Emergent phenomena in strongly correlated electron systems including topology, superconductivity and magnetism
+- Design, craft and control material platforms on the atomic level via tear-and-stack technique or epitaxial growth
+- Harness the power of STM to visualize exotic electronic states in moiré graphene and TMDC materials
+- Unconventional superconductors and topological superconductivity 
 
 # Education to show in About widget
 education:
