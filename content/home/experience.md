@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: STM study of moiré graphene and TMDC materials
+    company: Visiting Student Researcher supervised by Prof. Michael Crommie, UC Berkeley
+    company_url: 'https://crommie.berkeley.edu/'
+    location: Crommie Group, UC Berkeley
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        *	Learned and mastered the use of STM to image the electronic structure of materials
+        * Characterized twisted mono-bilayer graphene and TMDC samples (TaSe_2,NbSe_2,FeTe_2  etc.).
+        * Currently working on nontrivial topology in twisted mono-bilayer graphene
+
   - title: Two-dimensional superconductivity at oxide interfaces 
     company: Supervised by Prof. Wei Li
     company_url: ''
