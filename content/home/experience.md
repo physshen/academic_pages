@@ -29,10 +29,22 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        *	Learned and mastered the use of STM to image the electronic structure of materials
-        * Characterized twisted mono-bilayer graphene and TMDC samples ($TaSe_{2}$,$NbSe_{2}$,$FeTe_{2}$  etc.).
-        * Currently working on nontrivial topology in twisted mono-bilayer graphene
-
+        *	Learned and mastered the use of STM to image the electronic structure of materials.
+        * Characterized twisted mono-bilayer graphene and TMDC samples ($TaSe_{2}$,$NbSe_{2}$,$FeTe_{2}$, etc.).
+        * Currently working on nontrivial topology in twisted mono-bilayer graphene.
+  
+  - title: Ab-initio study of rare-earth oxide superconductors with nontrivial topology                 
+    company: Supervised by Prof. Wei Li
+    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
+    location: Artificial Interface Lab, Fudan University
+    date_start: '2021-07-01'
+    date_end: '2021-08-30'
+    description: |2-
+        *	Learned and mastered first-principle calculation of electronic structures and phonon spectrum using VASP.
+        * Developed python codes to study the nontrivial topology of rare-earth oxide superconductor LaO and found non-zero $Z_2$ invariant together with topologically protected surface states.
+        * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory and identified the 5d to 4f orbital transition accounts for the band inversion.
+        * Co-authored paper: Electronic structure of rare-earth binary oxide superconductor LaO now under review in Physical Review B.
+  
   - title: Two-dimensional superconductivity at oxide interfaces 
     company: Supervised by Prof. Wei Li
     company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
@@ -40,10 +52,10 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        *	Grew and optimized single crystal oxide thin films on substrates with pulsed-laser deposition
-        * Studied the transport and magnetic properties of the heterointerface at low temperatures
-        * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance
-        * Currently working in search for ferromagnetic insulator in double perovskite thin films and possible superconducting phase via voltage gating
+        *	Grew and optimized single crystal oxide thin films on $SrTiO_{3}$ (111) substrates layer-by-layer with pulsed-laser deposition.
+        * Measured the transport and magnetic properties of the heterointerface at low temperatures
+        * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance.
+        * Co-authored paper: Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor now under review in Nature.
 
   - title: Time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li
@@ -52,12 +64,10 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-20'
     description: |2-
-        * Used group theory to analyze the pairing symmetry in our sample and help explain the coexistence of
-           ferromagnetism and superconductivity 
-        * Proposed a topological origin of the two-fold symmetry in transverse resistance, which provided a new
-            explanation of similar results reported in Nature 547, 432–435 (2017) 
-        * Gained rich experience in combining experiments with theories to better understand interplay between
-            magnetism and superconductivity    
+        * Analyzed the pairing symmetry in our sample with group theory and helped to explain the coexistence of ferromagnetism and superconductivity. 
+        * Fitted STS data with the simulated LDOS spectrum of triplet-pairing superconductors using Green’s function.
+        * Proposed a topological origin of the two-fold symmetry in transverse resistance, which provided a new explanation of similar results reported in Nature 547, 432–435 (2017).  
+        * Gained rich experience in combining experiments with theories to better understand the interplay between magnetism and superconductivity.
 
   - title: Fingerprints of Majorana zero mode in topological superconductors
     company: Supervised by Prof. Wei Li
@@ -66,10 +76,10 @@ experience:
     date_start: '2019-05-01'
     date_end: '2020-09-01'
     description: |2-
-       * Used nonequilibrium Green’s function method (NEGF) and analytical methods to calculate the transport
-         properties of p+ip and d+id superconductors 
-       * Proposed that transport measurements can be utilized to identify the existence of Majorana zero mode in p+ip and d+id superconductors 
-       * Received systematic training in the theory of superconductivity
+       * Learned nonequilibrium Green’s function method (NEGF) and analytical methods to study the transport properties of p+ip and d+id superconductors.
+       * Developed python codes to simulate Andreev reflection spectrum of metal-superconductor junctions. 
+       * Studied the finite-size effects of the zero-bias conductance peaks in topological superconductors and found only quasi-one-dimensional samples can give rise to quantized conductance at $2e^{2}/h$.
+
   - title: CVD growth of 2D materials and device fabrication
     company: Supervised by Prof. Faxian Xiu
     company_url: 'http://www.physics.fudan.edu.cn/tps/people/fxxiu/'
@@ -79,7 +89,7 @@ experience:
     description: |2-
         * Synthesized high quality $Bi_{2}SeO_{3}$ sample using chemical vapor deposition method (CVD)
         * Peeled off single-layered graphene for heterostructure fabrication 
-        * Helped establish a platform for stacking layers of 2D materials controlled by LabView 
+        * Helped establish a platform for stacking heterostructures controlled by LabView 
         * Received technical training in device fabrication and transport measurement
 
   
