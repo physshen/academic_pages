@@ -49,7 +49,7 @@ social:
   link: https://www.linkedin.com/in/zongqi-shen-366844190/
 - icon: cv
   icon_pack: ai
-  link: media/Zongqi Shen CV 2021-10.pdf
+  link: media/Zongqi Shen CV 2021-11.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,5 +67,5 @@ I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My re
 
 I am working on STM/STS study of [moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}) and transition metal dichalcogenides(TMDC) at [Crommie group](https://crommie.berkeley.edu/). My previous work foucused on unconventional superconductivity at [oxide interfaces]({{< ref "project/Ti2O3/index.md" >}}).
 
-{{< icon name="download" pack="fas" >}}Download my {{< staticref "media/Zongqi Shen CV 2021-10.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "media/Zongqi Shen CV 2021-11.pdf" "newtab" >}}CV{{< /staticref >}}
 
