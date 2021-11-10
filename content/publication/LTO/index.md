@@ -1,9 +1,9 @@
 ---
 title: "Time-reversal and Rotational Symmetries Breaking in a Spinel Superconductor"
 authors:
-- Huanyi Xu$e^{\dagger}$
-- Lijie Wan$g^{\dagger}$
-- Zongqi She$n^{\dagger}$
+- Huanyi Xue$\dagger$
+- Lijie Wang$\dagger$
+- Zongqi Shen$\dagger$
 - Guanqun Zhang
 - Shiwei Wu
 - Zhenghua An
