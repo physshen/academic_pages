@@ -52,7 +52,7 @@ experience:
     company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2021-08-25'
     description: |2-
         *	Grew and optimized single crystal oxide thin films on $SrTiO_{3}$ (111) substrates layer-by-layer with pulsed-laser deposition.
         * Measured the transport and magnetic properties of the heterointerface at low temperatures
