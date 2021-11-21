@@ -30,9 +30,11 @@ experience:
     date_end: ''
     description: |2-
         *	Learned and mastered the use of STM to image the electronic structure of materials.
-        * Characterized twisted mono-bilayer graphene and TMDC samples ($TaSe_{2}$,$NbSe_{2}$,$FeTe_{2}$, etc.).
-        * Currently working on nontrivial topology in twisted mono-bilayer graphene.
-  
+        * Characterized twisted mono-bilayer graphene and TMDC samples (,$NbSe_{2}$,$TaTe_{2}$, etc.).
+        * Measured the Mott behavior of monolayer 1T-$TaSe_{2}$ and Kondo resonance in 1T/1H-$TaSe_{2}$ hetero-bilayers. 
+        * Discovered an exotic $\sqrt{19}\times\sqrt{19}$ charge density wave in 1T-$TaTe_{2}$.
+        * 	Currently working on nontrivial topology in twisted mono-bilayer graphene and possible Tc enhancement in $NbSe_{2}/SrTiO_{3}$ heterostructure.
+
   - title: Ab-initio study of rare-earth oxide superconductors with nontrivial topology                 
     company: Supervised by Prof. Wei Li
     company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
@@ -43,7 +45,7 @@ experience:
         *	Learned and mastered first-principle calculation of electronic structures and phonon spectrum using VASP.
         * Developed python codes to study the nontrivial topology of rare-earth oxide superconductor LaO and found non-zero $Z_2$ invariant together with topologically protected surface states.
         * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory and identified the 5d to 4f orbital transition accounts for the band inversion.
-        * Co-authored paper: Electronic structure of rare-earth binary oxide superconductor LaO now under review in Physical Review B.
+        * Co-authored paper: Electronic structure of rare-earth binary oxide superconductor LaO now under review in Physical Review B as Letter.
   
   - title: Two-dimensional superconductivity at oxide interfaces 
     company: Supervised by Prof. Wei Li
@@ -55,7 +57,7 @@ experience:
         *	Grew and optimized single crystal oxide thin films on $SrTiO_{3}$ (111) substrates layer-by-layer with pulsed-laser deposition.
         * Measured the transport and magnetic properties of the heterointerface at low temperatures
         * Helped to identify the Bose metallic state with a wide range of temperature-independent resistance associated with vanishing Hall resistance.
-        * Co-authored paper: Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor now under review in Nature.
+        * Co-authored paper: Two-dimensional superconductivity at heterostructure of Mott insulating titanium sesquioxide and polar semiconductor now under review in Nature Materials.
 
   - title: Time-reversal and rotational symmetry breaking in superconductors
     company: Supervised by Prof. Wei Li

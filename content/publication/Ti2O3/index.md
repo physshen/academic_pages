@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to *Nature*"
+publication: "Under review in *Nature Materials*"
 publication_short: ""
 
 abstract: "Heterointerfaces with symmetry breaking and strong interfacial coupling
@@ -44,7 +44,7 @@ correlation and the interfacial coupling between Ti2O3 and polar GaN. These
 findings provide a new platform for the study of intriguing two-dimensional
 superconductivity with a delicate interplay of the electron correlation and the
 interfacial coupling at the heterostructures, and unveil the clues of the mechanism
-of unconventional superconductivity"
+of unconventional superconductivity."
 
 # Summary. An optional shortened abstract.
 summary: 
