@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review in *Physical Review B* as *Letter*"
+publication: "Accepted by *Physical Review B* as *Letter*"
 publication_short: ""
 
 abstract: "Recently the superconductivity has been discovered in the rock-salt structured binary lanthanum monoxide LaO through the state-of-the-art oxide thin-film epitaxy. This work reveals the normal state of superconducting LaO to be a Z2 nontrivial topological metal that the Dirac point protected by the crystal symmetry is located at around the Fermi energy. By analysing the orbital characteristics, the nature of topological band structure of LaO originates from the intra-atomic transition in energy from outer shell La 5d to inner shell 4f orbitals driven by the strong octahedral crystal-field. Furthermore, the appearance of novel surface states unambiguously demonstrates the topological signature of LaO. Our theoretical findings not only shed light into the understanding of exotic quantum behaviors in LaO superconductor with intimate correlation between 4f and 5d orbitals in La, but also provide an exciting platform to explore the interplay of intriguing nontrivial topology and superconductivity."
