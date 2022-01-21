@@ -1,5 +1,5 @@
 ---
-title: "Electronic structure of rare-earth binary oxide superconductor LaO"
+title: "$Z_{2}$ nontrivial topology of rare-earth binary oxide superconductor LaO"
 authors:
 - Jiahui Qian
 - Zongqi Shen
@@ -33,7 +33,7 @@ featured: false
 
 url_pdf: "https://arxiv.org/pdf/2108.10063.pdf"
 url_preprint: "https://arxiv.org/abs/2108.10063"
-links: [{name: "arXiv:2108.10063", url: "https://arxiv.org/abs/2108.10063"}]
+links: [{name: "Physical Review B", url: "https://journals.aps.org/prb/accepted/c2071Y60W4115e7b01726c23e75d08c52c674d0ed"}]
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
