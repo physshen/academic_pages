@@ -30,12 +30,10 @@ experience:
     date_end: ''
     description: |2-
         *	Mastered STM/S to image the electronic structure of materials and took charge of an Omicron LT-STM machine.
-        * Constructed a continuum model to simulate the LDOS of twisted bilayer graphene aligned with hBN.
         * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
         * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture. 
-        * Proved the existence of localized spins by observing Kondo resonance peak in the STS spectra of 1T/1H-$TaSe_{2}$.
         * Discovered an exotic $\sqrt{19}\times\sqrt{19}$ charge density wave in 1T-$TaTe_{2}$.
-        * Currently working on nontrivial topology in twisted mono-bilayer graphene and possible Tc enhancement in $NbSe_{2}/SrTiO_{3}$ heterostructure.
+
 
   - title: Ab-initio study of rare-earth oxide superconductors with nontrivial topology                 
     company: Supervised by Prof. Wei Li
