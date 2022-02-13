@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zong-Qi Shen
+title: Zongqi Shen
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,7 +30,7 @@ education:
     year: 09/2018-present
   - course: Research Internship
     institution: University of California, Berkeley
-    year: 08/2021-present
+    year: 08/2021-01/2022
 
 
 # Social/Academic Networking
@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:zqshen18@fudan.edu.cn'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/physshen
