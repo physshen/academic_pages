@@ -47,9 +47,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/physshen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/zongqi-shen-366844190/
 - icon: cv
   icon_pack: ai
   link: media/CV_Zongqi Shen_2022-01.pdf
