@@ -63,10 +63,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena due to the interplay between charge, spin, lattice and orbital in strongly correlated electron systems. I approach this goal by engaging in both experimental characterization of exotic materials and theoretical modeling.
+I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My research interest focuses on understanding the emergent phenomena in strongly correlated electron systems. I am interested in both experimental characterization of exotic materials and theoretical modeling.
 
 <!--I am working on STM/STS study of [moiré graphene]({{< ref "project/Moiré_graphene/index.md" >}}) and transition metal dichalcogenides(TMDC) at [Crommie group](https://crommie.berkeley.edu/). My previous work foucused on unconventional superconductivity at [oxide interfaces]({{< ref "project/Ti2O3/index.md" >}}).-->
-
 
 I will be joining MIT as a Ph.D. student in Physics this fall.
 
