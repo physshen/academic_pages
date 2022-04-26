@@ -29,9 +29,9 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        *	Mastered STM/S to image the electronic structure of materials and took charge of an Omicron LT-STM machine.
         * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
-        * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture. 
+        * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
+        * Proved the existence of localized spins by observing Kondo resonance peak in the STS spectra of 1T/1H-TaSe2. 
         * Discovered an exotic $\sqrt{19}\times\sqrt{19}$ charge density wave in 1T-$TaTe_{2}$.
 
 
@@ -42,7 +42,6 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-20'
     description: |2-
-        *	Learned and mastered first-principle calculation of electronic structures and phonon spectrum using VASP.
         * Developed python codes to study the nontrivial topology of rare-earth oxide superconductor LaO and found non-zero $Z_2$ invariant together with topologically protected surface states.
         * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory and identified the origin of band inversion as the 5d to 4f orbital transition.
      
@@ -58,7 +57,6 @@ experience:
        * Helped to identify the Bose metallic state in $Ti_{2}O_{3}/GaN$ with temperature-independent resistance in a wide range associated with vanishing Hall resistance.
        * Analyzed the pairing symmetry in $LiTi_{2}O_{4}$ with group theory and helped to explain the coexistence of ferromagnetism and superconductivity.
        * Fitted STS data of $LiTi_{2}O_{4}$ with the calculated LDOS spectrum of triplet-pairing superconductors using Green’s function method.
-       * Proposed a topological origin of the two-fold symmetry in transverse resistance of $LiTi_{2}O_{4}$, providing a new explanation for similar results reported in Nature 547, 432–435 (2017).
 
 
 
@@ -69,9 +67,8 @@ experience:
     date_start: '2019-05-01'
     date_end: '2020-04-01'
     description: |2-
-       * Learned lattice Green’s function method to study the transport properties of topological superconductors.
        * Constructed a lattice model of metal-superconductor junctions and developed python codes to simulate Andreev reflection spectrum.
-       * Studied the finite-size effects of the zero-bias conductance peak in topological superconductors and found that only quasi-one-dimensional materials can exhibit quantized conductance $2e^{2}/h$.
+       * Studied the finite-size effects of the zero-bias conductance peak in topological superconductors.
 
   - title: CVD growth of 2D materials and device fabrication
     company: Supervised by Prof. Faxian Xiu
@@ -82,7 +79,6 @@ experience:
     description: |2-
         * Synthesized high quality $Bi_{2}SeO_{3}$ sample using chemical vapor deposition method (CVD)
         * Peeled off single-layered graphene for heterostructure fabrication.
-        * Helped establish a platform for stacking heterostructures controlled by LabView 
 
   
 ---

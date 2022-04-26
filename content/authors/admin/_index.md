@@ -49,7 +49,7 @@ social:
   link: https://github.com/physshen
 - icon: cv
   icon_pack: ai
-  link: media/CV_Zongqi Shen_2022-01.pdf
+  link: media/CV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,5 +69,5 @@ I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My re
 
 I will be joining MIT as a Ph.D. student in Physics this fall.
 
-{{< icon name="download" pack="fas" >}}Download my {{< staticref "media/CV_Zongqi Shen_2022-01.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}
 
