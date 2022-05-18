@@ -77,7 +77,7 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-05-01'
     description: |2-
-        * Synthesized high quality $Bi_{2}SeO_{3}$ sample using chemical vapor deposition method (CVD)
+        * Synthesized high quality $Bi_{2}SeO_{2}$ sample using chemical vapor deposition method (CVD)
         * Peeled off single-layered graphene for heterostructure fabrication.
 
   
