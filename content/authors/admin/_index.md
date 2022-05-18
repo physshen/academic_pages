@@ -18,7 +18,6 @@ bio: Undergraduate researcher at Fudan University
 # Interests to show in About widget
 interests:
 - Strongly correlated systems
-- Moiré graphene and TMDC
 - Complex oxides
 - Superconductivity
 
