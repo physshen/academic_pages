@@ -59,7 +59,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My research interest focuses on understanding the emergent phenomena in strongly correlated electron systems. I am interested in both experimental characterization of exotic materials and theoretical modeling.
