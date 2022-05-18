@@ -68,5 +68,5 @@ I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My re
 
 I will be joining MIT as a Ph.D. student in Physics this fall.
 
-<!-- {< icon name="download" pack="fas" >}}Download my {{< staticref "media/CV.pdf" "newtab" # >}}CV{{< /staticref >}} -->
+<!-- {< icon name="download" pack="fas" >}}Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}} -->
 
