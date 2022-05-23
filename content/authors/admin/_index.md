@@ -6,7 +6,7 @@ title: Zongqi Shen
 superuser: true
 
 # Role/position/tagline
-role: Undergraudate Researcher
+role: Undergraudate Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Fudan University
