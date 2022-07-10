@@ -46,9 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/physshen
-#- icon: cv
-#  icon_pack: ai
-#  link: media/CV.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
