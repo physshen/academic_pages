@@ -32,43 +32,17 @@ experience:
     description: |2-
         * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
         * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
-        * Proved the existence of localized spins by observing Kondo resonance peak in the STS spectra of 1T/1H-TaSe2. 
-        * Discovered an exotic $\sqrt{19}\times\sqrt{19}$ charge density wave in 1T-$TaTe_{2}$.
 
-  - title: Ab-initio study of rare-earth oxide superconductors with nontrivial topology                 
-    company: Supervised by Prof. Wei Li
-    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
-    location: Artificial Interface Lab, Fudan University
-    date_start: '2021-05-01'
-    date_end: '2021-08-20'
-    description: |2-
-        * Developed python codes to study the nontrivial topology of rare-earth oxide superconductor LaO and found non-zero $Z_2$ invariant together with topologically protected surface states.
-        * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory and identified the origin of band inversion as the 5d to 4f orbital transition.
-     
-  
-  - title: Unconventional superconductivity in oxide heterostructures
-    company: Supervised by Prof. Wei Li
-    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
-    location: Artificial Interface Lab, Fudan University
-    date_start: '2020-04-01'
-    date_end: '2021-08-25'
-    description: |2-
-       * Grew and optimized single crystal oxide thin films $Ti_{2}O_{3}/GaN$ layer-by-layer with pulsed-laser deposition.
-       * Helped to identify the Bose metallic state in $Ti_{2}O_{3}/GaN$ with temperature-independent resistance in a wide range associated with vanishing Hall resistance.
-       * Analyzed the pairing symmetry in $LiTi_{2}O_{4}$ with group theory and helped to explain the coexistence of ferromagnetism and superconductivity.
-       * Fitted STS data of $LiTi_{2}O_{4}$ with the calculated LDOS spectrum of triplet-pairing superconductors using Green’s function method.
-
-
-
-  - title: Theoretical study of Majorana zero modes in topological superconductors
+  - title: Unconventional superconductivity in oxides   
     company: Supervised by Prof. Wei Li
     company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2019-05-01'
-    date_end: '2020-04-01'
+    date_end: '2021-08-20'
     description: |2-
-       * Constructed a lattice model of metal-superconductor junctions and developed python codes to simulate Andreev reflection spectrum.
-       * Studied the finite-size effects of the zero-bias conductance peak in topological superconductors.
+        * Grew and optimized single crystal oxide thin films $Ti_{2}O_{3}/GaN$ with pulsed-laser deposition.
+        * Studied the nontrivial topology of rare-earth oxide superconductor LaO with first-principle calculation.
+        * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory.
 
   - title: CVD growth of 2D materials and device fabrication
     company: Supervised by Prof. Faxian Xiu

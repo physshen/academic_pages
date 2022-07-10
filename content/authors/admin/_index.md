@@ -62,7 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a physics senior at [Fudan University](https://www.fudan.edu.cn/en/). My research interest focuses on understanding the emergent phenomena in strongly correlated electron systems. 
+I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated electron systems. 
 <!--I am interested in both experimental characterization of exotic materials and theoretical modeling.-->
 
 
