@@ -26,7 +26,7 @@ education:
   courses:
   - course: BSc in Physics
     institution: Fudan University
-    year: 09/2018-present
+    year: 09/2018-06/2022
   - course: Visiting Student
     institution: University of California, Berkeley
     year: 08/2021-01/2022
