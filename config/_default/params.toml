@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zqshen18@fudan.edu.cn"
-phone = "+8617721298365"
+email = "zqshen AT mit DOT edu"
+phone = "617-386-0696"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "220 Handan Rd", city = "Shanghai", region = "Yangpu District", postcode = "200433", country = "China", country_code = "CN"}
+address = {street = "77 Massachusetts Ave", city = "Cambridge", region = "", postcode = "02139", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.29725466450779", longitude = "121.50358561090677"}
+coordinates = {latitude = "42.35941484983715", longitude = "-71.0931067134926"}
 
 # Directions for visitors to locate you.
 directions = ""
