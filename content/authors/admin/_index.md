@@ -6,14 +6,14 @@ title: Zongqi Shen
 superuser: true
 
 # Role/position/tagline
-role: Undergraudate Student
+role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fudan University
-  url: https://www.fudan.edu.cn/en/
+- name: Massachusetts Institute of Technology
+  url: https://physics.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate researcher at Fudan University
+bio: Graduate Student at MIT
 
 # Interests to show in About widget
 interests:
@@ -27,9 +27,9 @@ education:
   - course: BSc in Physics
     institution: Fudan University
     year: 09/2018-06/2022
-  - course: Visiting Student
-    institution: University of California, Berkeley
-    year: 08/2021-01/2022
+  - course: Graduate Student
+    institution: Massachusetts Institute of Technology
+    year: 09/2022-present
 
 
 # Social/Academic Networking
@@ -37,12 +37,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:zqshen18@fudan.edu.cn'
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:zongqi.shen@outlook.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/physshen
@@ -62,11 +62,8 @@ email: ""
 highlight_name: true
 ---
 
-I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated electron systems. 
+I am a Ph.D. student at MIT studying physics. I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated electron systems. 
 <!--I am interested in both experimental characterization of exotic materials and theoretical modeling.-->
 
-
-
-I will be joining MIT as a Ph.D. student in Physics this fall.
 
 
