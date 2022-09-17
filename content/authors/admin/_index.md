@@ -18,7 +18,7 @@ bio: Graduate Student at MIT
 # Interests to show in About widget
 interests:
 - Strongly correlated systems
-- Ultra-fast spectrosopy
+- Ultrafast spectrosopy
 - Superconductivity
 
 # Education to show in About widget
