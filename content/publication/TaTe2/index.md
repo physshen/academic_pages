@@ -1,5 +1,5 @@
 ---
-title: "A Novel Superstructure in Epitaxially Grown 1T-TaTe$_{2}$"
+title: "A Novel Superstructure in Epitaxially Grown 1T-TaTU+2082"
 authors:
 - Jinwoong Hwang
 - Yeongrok Jin
