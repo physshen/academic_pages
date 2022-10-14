@@ -63,8 +63,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student at MIT studying physics. I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated electron systems. 
-<!--I am interested in both experimental characterization of exotic materials and theoretical modeling.-->
+I am a Ph.D. student at MIT working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated materials with ultra-fast techniques. 
+
 
 
 

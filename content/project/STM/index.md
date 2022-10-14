@@ -1,6 +1,6 @@
 ---
 title: STM Study of 2D Materials
-summary: charge density wave material and twisted graphene
+summary: charge density wave materials and twisted graphene
 date: "2021-05-02T00:00:00Z"
 tags:
   - 2D Materials
