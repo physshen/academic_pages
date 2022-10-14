@@ -1,5 +1,5 @@
 ---
-title: "A Novel $\sqrt {19} $ \cross $\sqrt {19} $ Superstructure in Epitaxially Grown $1T-TaTe_{2}$"
+title: "A Novel $\sqrt {19} \cross \sqrt {19} $ Superstructure in Epitaxially Grown $1T-TaTe_{2}$"
 authors:
 - Jinwoong Hwang
 - Yeongrok Jin
