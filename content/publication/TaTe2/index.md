@@ -1,5 +1,5 @@
 ---
-title: "A Novel Superstructure in Epitaxially Grown 1T-TaT{{U+208x}}"
+title: "A Novel Superstructure in Epitaxially Grown 1T-TaTe$_{2} $"
 authors:
 - Jinwoong Hwang
 - Yeongrok Jin
@@ -33,8 +33,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Advanced Materials"
 publication_short: "AM"
-
-abstract: "The spontaneous formation of electronic orders is a crucial element for understanding complex quantum states and engineering heterostructures in 2D materials. A novel {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} charge order in few-layer-thick 1T-TaTe$_{2}$ transition metal dichalcogenide films grown by molecular beam epitaxy, which has not been realized, is report. The photoemission and scanning probe measurements demonstrate that monolayer 1T-TaTe$_{2}$ exhibits a variety of metastable charge density wave orders, including the {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} superstructure, which can be selectively stabilized by controlling the post-growth annealing temperature. Moreover, it is found that only the {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} order persists in 1T-TaTe$_{2}$ films thicker than a monolayer, up to 8 layers. The findings identify the previously unrealized novel electronic order in a much-studied transition metal dichalcogenide and provide a viable route to control it within the epitaxial growth process."
+abstract: "The spontaneous formation of electronic orders is a crucial element for understanding complex quantum states and engineering heterostructures in 2D materials. A novel {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} charge order in few-layer-thick 1T-TaTe$\_{2}$ transition metal dichalcogenide films grown by molecular beam epitaxy, which has not been realized, is report. The photoemission and scanning probe measurements demonstrate that monolayer 1T-TaTe$_{2}$ exhibits a variety of metastable charge density wave orders, including the {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} superstructure, which can be selectively stabilized by controlling the post-growth annealing temperature. Moreover, it is found that only the {{< math >}}$\\sqrt{19} \\times \\sqrt{19}${{< /math >}} order persists in 1T-TaTe$_{2}$ films thicker than a monolayer, up to 8 layers. The findings identify the previously unrealized novel electronic order in a much-studied transition metal dichalcogenide and provide a viable route to control it within the epitaxial growth process."
 # Summary. An optional shortened abstract.
 summary: 
 
