@@ -1,5 +1,5 @@
 ---
-title: "A Novel {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}  Superstructure in Epitaxially Grown 1T-TaTe$_2$"
+title: "A Novel {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}  Superstructure in Epitaxially Grown 1T-TaTe"
 authors:
 - Jinwoong Hwang
 - Yeongrok Jin
