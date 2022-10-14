@@ -12,31 +12,31 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 15
+  weight = 20
 
 [[main]]
   name = "Research"
   url = "#experience"
-  weight = 20
+  weight = 30
 
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 50
+# [[main]]
+#   name = "Blog"
+#   url = "#posts"
+#   weight = 50
 
 
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 
