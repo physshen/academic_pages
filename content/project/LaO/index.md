@@ -3,7 +3,6 @@ title: Electronic structure of superconductor LaO
 summary: nontrivial topology
 date: "2021-08-24T00:00:00Z"
 tags:
-  - Theoretical
   - Topology
   - Superconductivity
   
