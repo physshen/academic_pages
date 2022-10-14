@@ -25,13 +25,6 @@ title = "Projects"
     name = "all"
     tag = "*"
 
-  [[content.filter_button]]
-    name = "theory"
-    tag = "Theoretical"
-
-  [[content.filter_button]]
-    name = "experiment"
-    tag = "Experimental"
 
   [[content.filter_button]]
     name = "topology"
@@ -42,8 +35,8 @@ title = "Projects"
     tag = "Superconductivity"
 
   [[content.filter_button]]
-    name = "moiré"
-    tag = "Moiré"
+    name = "2D materials"
+    tag = "2D Materials"
 
 
 [design]
