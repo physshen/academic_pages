@@ -4,8 +4,8 @@ summary: PLD growth and characterization of oxide interfaces
 date: "2021-05-01T00:00:00Z"
 
 tags:
-  - Superconductivity
-  - Experimental
+  - superconductivity
+
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

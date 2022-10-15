@@ -28,15 +28,15 @@ title = "Projects"
 
   [[content.filter_button]]
     name = "topology"
-    tag = "Topology"
+    tag = "topology"
 
   [[content.filter_button]]
     name = "superconductivity"
-    tag = "Superconductivity"
+    tag = "superconductivity"
 
   [[content.filter_button]]
     name = "2D materials"
-    tag = "2D Materials"
+    tag = "2D materials"
 
 
 [design]

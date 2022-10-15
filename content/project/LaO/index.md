@@ -3,8 +3,8 @@ title: Electronic structure of superconductor LaO
 summary: topological metal with a superconducting ground state
 date: "2021-08-24T00:00:00Z"
 tags:
-  - Topology
-  - Superconductivity
+  - topology
+  - superconductivity
   
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
