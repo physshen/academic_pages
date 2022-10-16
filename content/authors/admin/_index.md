@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:zongqi.shen@outlook.com'
+- icon: envelope
+- icon_pack: fas
+  link: '/#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
@@ -49,7 +49,7 @@ social:
   link: https://github.com/physshen
 - icon: cv
   icon_pack: ai
-  link: media/CV.pdf
+  link: media/CV-202210.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,7 +63,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student at MIT working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My research focuses on understanding the emergent phenomena in strongly correlated materials with ultrafast techniques. 
+I am a Ph.D. student at MIT working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the emergent phenomena in strongly correlated materials with ultrafast techniques. 
 
 
 
