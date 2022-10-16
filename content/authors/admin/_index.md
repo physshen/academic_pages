@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
 - icon_pack: fas
-- link: contact
+- link: https://physshen.com/#contact
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
