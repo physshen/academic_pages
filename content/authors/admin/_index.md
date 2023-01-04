@@ -40,15 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/physshen
-- icon: cv
-  icon_pack: ai
-  link: media/CV_202212.pdf
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/physshen
+#- icon: cv
+#  icon_pack: ai
+#  link: media/CV_202212.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -62,7 +62,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. student at MIT working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the emergent phenomena in strongly correlated systems with ultrafast techniques. 
+I am a Ph.D. student at MIT
+# working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in # Physics at [Fudan University](https://www.fudan.edu.cn/en/). My current research focuses on # understanding the emergent phenomena in strongly correlated systems with ultrafast techniques. 
 
 
 
