@@ -38,9 +38,9 @@ experience:
     company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
     location: Artificial Interface Lab, Fudan University
     date_start: '2019-05-01'
-    date_end: '2021-08-2ized oxide interfaces with pulsed-laser deposition.
+    date_end: '2021-08-25'
     description: |2-
-        * Grew and optimized single crystal oxide thin films $Ti_{2}O_{3}/GaN$ with pulsed-laser deposition.
+        * Grew and optimized oxide interfaces with pulsed-laser deposition.
         * Studied the nontrivial topology of rare-earth oxide superconductor LaO with first-principle calculation.
         * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory.
 
