@@ -17,8 +17,8 @@ bio: Graduate Student at MIT
 
 # Interests to show in About widget
 interests:
-- Strongly correlated systems
-- Ultrafast optics
+- strongly correlated systems
+- ultrafast optics and diffraction
 
 # Education to show in About widget
 education:
@@ -62,6 +62,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the emergent phenomena in strongly correlated systems with ultrafast techniques.
-
+I am a Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
+Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan
+University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the emergent phenomena in
+strongly correlated systems with ultrafast techniques including time-resolved second harmonic generation(SHG) polarimetry and spectroscopy, time-resolved X-ray scattering. 
 
