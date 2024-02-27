@@ -18,7 +18,7 @@ bio: Graduate Student at MIT
 # Interests to show in About widget
 interests:
 - strongly correlated systems
-- ultrafast optics and diffraction
+- ultrafast dynamics
 
 # Education to show in About widget
 education:
