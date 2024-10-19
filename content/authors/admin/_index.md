@@ -62,8 +62,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a third Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
+I am a third year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
 Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan
 University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the 
-dynamics in strongly correlated systems. The experimental methods include time-resolved rotational anisitropic second harmonic generation(RA-SHG) and time-resolved diffraction(UED, tr-XRD etc.). 
+dynamics in strongly correlated systems. The experimental methods include time-resolved rotational anisotropy second harmonic generation(RA-SHG) and time-resolved diffraction(UED, tr-XRD etc.). 
 
