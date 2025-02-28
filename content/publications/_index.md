@@ -10,7 +10,18 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  image: "banner.png"
+  image:
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
+ 
 ---
 
 ## Preprints
