@@ -10,8 +10,12 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: "test"
-  image: "/img/banner.png"
+  image: "banner.png"
 ---
 
+**Preprints**
+1. 
+
+
+**Published**
 
