@@ -9,9 +9,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-banner:
+header:
   caption: "test"
-  image: "/media/banner.png"
+  image: "banner.png"
 ---
 
 
