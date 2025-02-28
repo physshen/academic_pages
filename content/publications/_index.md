@@ -13,12 +13,16 @@ header:
   image: "banner.png"
 ---
 
-**Preprints**
+## Journal Articles
+- **Your Name**, Co-author Name, *"Title of the Paper,"* **Journal Name**, **Volume**(Issue), Page Numbers, Year. [DOI](#)
+- **Your Name**, *"Another Paper Title,"* **Journal of Physics**, **10**(2), 100-110, 2024. [DOI](#)
 
-Discovery of transient topological crystalline order in optically driven SnSe
-{style="color: blue"}
-Masataka Mogi, Dongsung Choi, Kyoung Hun Oh, Diana Golovanova, Yufei Zhao, Yifan Su, **Zongqi Shen**, Doron Azoury, Haoyu Xia, Batyr Ilyas, Tianchuang Luo, Noriaki Kida, Taito Osaka, Tadashi Togashi, Binghai Yan, Nuh Gedik 
+## Conference Papers
+- **Your Name**, *"Title of the Conference Paper,"* **Proceedings of XYZ Conference**, Location, Year. [DOI](#)
+- **Your Name**, *"Second Conference Paper,"* **Conference on ABC**, 2023. [DOI](#)
 
+## Preprints
+- **Your Name**, *"Title of Preprint,"* **arXiv**, Year. [arXiv](https://arxiv.org/abs/xxxxx)
 
-**Published**
-
+## Book Chapters
+- **Your Name**, *"Book Chapter Title,"* in **Book Title**, Edited by Editor Name, Publisher, Year. [Link](#)
