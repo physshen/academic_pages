@@ -11,19 +11,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publications"
   weight = 20
 
 [[main]]
   name = "Research"
-  url = "#experience"
+  url = "research"
   weight = 30
-
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
 
 
 
