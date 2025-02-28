@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: "test"
-  image: "banner.png"
+  image: "/images/banner.png"
 ---
 
 
