@@ -12,18 +12,7 @@ comments: false  # Show comments?
 header:
   image:
 
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
-  - icon_pack: fab
-    icon: medium
-    name: Originally published on Medium
-    url: 'https://medium.com'
- 
 ---
-
 ## Preprints
 - [Discovery of transient topological crystalline order in optically driven SnSe](https://arxiv.org/abs/2502.14800)
 
