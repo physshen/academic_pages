@@ -25,10 +25,10 @@ education:
   courses:
   - course: Graduate Student
     institution: Massachusetts Institute of Technology
-    year: 09/2022-present
+    year: 2022-present
   - course: BSc in Physics
     institution: Fudan University
-    year: 09/2018-06/2022
+    year: 2018-2022
 
 
 
