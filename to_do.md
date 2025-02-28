@@ -1,0 +1,2 @@
+- add research
+- better ways of showing papers
