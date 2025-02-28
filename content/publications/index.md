@@ -1,7 +1,7 @@
 ---
-title: Research 
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Publications
+summary: My publication list.
+date: "2025-02-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -10,7 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "test"
+  image: "static/media/banner.png"
 ---
-To be updated soon...
+
+
