@@ -1,52 +1,38 @@
 ---
-title: Welcome
-widget: slider  # Use the Slider widget as this page section
-weight: 1  # Position of this section on the page
-active: true  # Publish this section?
+title: Research
+
+widget: hero
 headless: true  # This file represents a page section.
 
-design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: true
-  # Automatically transition through slides?
-  loop: false
-  # Duration of transition between slides (in ms)
-  interval: 2000
+# Put Your Section Options Here (title, background, etc.) ...
+title: My Hero
+weight: 10 # Position of section on the page
 
-content:
-  slides:
-    - title: � Welcome to the group
-      content: Take a look at what we're working on...
-      align: center
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: coders.jpg
-        fit: cover
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-        fit: cover
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
-        fit: cover
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: ''
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
+
+# Choose an optional background color, gradient, image, or video
+design:
+  background:
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
+    text_color_light: true
 ---
 
+Add an intro paragraph here.
