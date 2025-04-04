@@ -13,7 +13,8 @@ header:
   image:
 
 ---
-[{{< icon name="google-scholar" pack="ai">}}](https://scholar.google.com/citations?user=kE8tVdkAAAAJ&hl=en)
+{{< icon name="google-scholar" pack="ai">}}[Google Scholar](https://scholar.google.com/citations?user=kE8tVdkAAAAJ&hl=en)
+
 ## Preprints
 ### [Discovery of transient topological crystalline order in optically driven SnSe](https://arxiv.org/abs/2502.14800)
 
