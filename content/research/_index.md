@@ -13,4 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-To be updated soon...
