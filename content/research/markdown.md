@@ -1,9 +1,10 @@
+---
 # content/research/markdown.md
-widget = "markdown"
-headless = true
-active = true
-weight = 1
-title = "Our Research Focus"
+widget : markdown
+headless : true
+active : true
+weight : 1
+title : "Our Research Focus"
 
 [content]
   content = """
@@ -18,3 +19,4 @@ title = "Our Research Focus"
   � We combine ultrafast spectroscopy, transport measurements, and first-principles simulations.
   """
 
+---
