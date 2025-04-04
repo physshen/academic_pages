@@ -1,21 +1,48 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: accomplishments
+headless: true  # This file represents a page section.
 
-# Activate this widget? true/false
-active: true
+# Put Your Section Options Here (title, background, etc.) ...
+title: My Experience
+subtitle:
+weight: 10 # The position of section on page
 
-# This file represents a page section.
-headless: true
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-# Order that this section appears on the page.
-weight: 10
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with `>-`.
+item:
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Neural Networks and Deep Learning
+    url: ''
+    certificate_url: 'https://www.coursera.org'
+    date_start: '2018-10-01'
+    date_end: ''
+    description: ''
+  - organization: edX
+    organization_url: 'https://www.edx.org'
+    title: Blockchain Fundamentals
+    url: >-
+      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals      
+    certificate_url: 'https://www.edx.org'
+    date_start: '2018-03-01'
+    date_end: ''
+    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+  - organization: DataCamp
+    organization_url: 'https://www.datacamp.com'
+    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    url: ''
+    certificate_url: 'https://www.datacamp.com'
+    date_start: '2017-07-01'
+    date_end: '2017-12-21'
+    description: ''
 
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
 ---
