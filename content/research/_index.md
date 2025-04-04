@@ -13,4 +13,4 @@ header:
   image:
 
 ---
-{{< figure src="SHG.png" caption="Time-resolved rotational anisotropy second-harmonic generation" numbered="true" >}}
+{{< figure src="/media/SHG.png" caption="Time-resolved rotational anisotropy second-harmonic generation" numbered="true" >}}
