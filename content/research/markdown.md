@@ -1,3 +1,4 @@
+---
 widget = "markdown"
 active = true
 weight = 1
@@ -19,3 +20,4 @@ title = "Our Research Focus"
   � We combine ultrafast spectroscopy, transport measurements, and first-principles simulations.
   """
 
+---
