@@ -7,7 +7,7 @@ sections:
       title: "Hi, I'm Jane Doe"
       subtitle: "PhD in Physics | Researcher | Innovator"
       image:
-        filename: media/SHG.png
+        filename: coders.jpg
     design:
       is_fullscreen: true
 ---
