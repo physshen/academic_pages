@@ -16,6 +16,10 @@ header:
 {{< icon name="google-scholar" pack="ai">}}[Google Scholar](https://scholar.google.com/citations?user=kE8tVdkAAAAJ&hl=en)
 
 ## Preprints
+### [Higgs-mode electromagnon in the spin-spiral multiferroic CuBr2](https://arxiv.org/abs/2504.18716)
+
+Bryan T. Fichera†, Ajesh Kumar†, Baiqing Lv†, **_Zongqi Shen_**, Karna Morey, Qian Song, Batyr Ilyas, Tianchuang Luo, Riccardo Comin, T. Senthil, Nuh Gedik{{< icon name="envelope" pack="fas" >}}. arXiv:2504.18716 (2025).
+
 ### [Discovery of transient topological crystalline order in optically driven SnSe](https://arxiv.org/abs/2502.14800)
 
 Masataka Mogi†, Dongsung Choi†, Kyoung Hun Oh, Diana Golovanova, Yufei Zhao, Yifan Su, **_Zongqi Shen_**, Doron Azoury, Haoyu Xia, Batyr Ilyas, Tianchuang Luo, Noriaki Kida, Taito Osaka, Tadashi Togashi, Binghai Yan, Nuh Gedik{{< icon name="envelope" pack="fas" >}}. arXiv:2502.14800 (2025).
