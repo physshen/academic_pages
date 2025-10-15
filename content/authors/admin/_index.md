@@ -43,9 +43,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kE8tVdkAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/physshen
+
 #- icon: cv
 #  icon_pack: ai
 #  link: media/CV_202212.pdf
@@ -62,8 +60,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a third year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
-Gedik](https://physics.mit.edu/faculty/nuh-gedik/). I got my bachelor degree in Physics at [Fudan
+I am a 4th year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
+Gedik](https://physics.mit.edu/faculty/nuh-gedik/) and his [group](https://web.mit.edu/gediklab/). I got my bachelor degree in Physics at [Fudan
 University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the 
 dynamics in strongly correlated systems. The experimental methods include time-resolved rotational anisotropy second harmonic generation(RA-SHG) and time-resolved diffraction(UED, tr-XRD etc.). 
 
