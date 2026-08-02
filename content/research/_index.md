@@ -14,6 +14,20 @@ header:
 
 ---
 
+<style>
+.article-style h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.1rem;
+  padding-left: 0.9rem;
+  border-left: 4px solid var(--primary, #2962ff);
+  font-weight: 600;
+  line-height: 1.3;
+}
+.article-style h2:first-of-type {
+  margin-top: 1rem;
+}
+</style>
+
 ## Probing symmetry breaking orders
 
 Phases of quantum matter are classified not by the constituents themselves but by the
