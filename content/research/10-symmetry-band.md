@@ -14,13 +14,18 @@ design:
     color: '#1b3a6b'
     # Path is relative to `static/media/`, i.e. this resolves to /media/SHG.png
     image: 'SHG.png'
-    # The figure sits on a white background, so it needs a heavier overlay than a
-    # photo would for the white title text to stay legible.
-    image_darken: 0.7
+    # Light overlay so the figure stays visible; legibility of the white title
+    # comes from the text-shadow in `advanced.css_style` below rather than from
+    # dimming the whole image.
+    image_darken: 0.4
     image_size: cover
     image_position: center
     image_parallax: false
     text_color_light: true
   spacing:
-    padding: ['70px', '0', '70px', '0']
+    padding: ['130px', '0', '130px', '0']
+
+advanced:
+  # text-shadow is inherited, so setting it on the section reaches the title.
+  css_style: 'text-shadow: 0 1px 14px rgba(0,0,0,0.85);'
 ---
