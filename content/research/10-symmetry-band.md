@@ -17,7 +17,7 @@ design:
     # Light overlay so the figure stays visible; legibility of the white title
     # comes from the text-shadow in `advanced.css_style` below rather than from
     # dimming the whole image.
-    image_darken: 0.3
+    image_darken: 0.1
     image_size: cover
     image_position: center
     image_parallax: false
