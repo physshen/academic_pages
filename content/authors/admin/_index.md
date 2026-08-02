@@ -19,6 +19,7 @@ bio: Graduate Student at MIT
 interests:
 - strongly correlated systems
 - ultrafast dynamics
+- Floquet engineering
 
 # Education to show in About widget
 education:
@@ -63,5 +64,5 @@ highlight_name: true
 I am a 4th year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
 Gedik](https://physics.mit.edu/faculty/nuh-gedik/) and his [group](https://web.mit.edu/gediklab/). I got my bachelor degree in Physics at [Fudan
 University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the 
-dynamics in strongly correlated systems. The experimental methods include time-resolved rotational anisotropy second harmonic generation(RA-SHG) and time-resolved diffraction(UED, tr-XRD etc.). 
+dynamics in strongly correlated systems and enginering new phases of matter out of equilibrium. The experimental methods include ultafast optical spectroscopy (tr-SHG, transient reflectivity etc.) and ultrafast diffraction(UED, tr-XRD etc.). 
 
