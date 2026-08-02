@@ -70,9 +70,9 @@ svg.append(
 svg.append('<defs>')
 svg.append(
     '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
-    '<stop offset="0%" stop-color="#0b1c38"/>'
-    '<stop offset="50%" stop-color="#1b3a6b"/>'
-    '<stop offset="100%" stop-color="#0e2246"/></linearGradient>'
+    '<stop offset="0%" stop-color="#1a3c76"/>'
+    '<stop offset="50%" stop-color="#3468b5"/>'
+    '<stop offset="100%" stop-color="#1d4585"/></linearGradient>'
 )
 # blue -> purple -> red along the landscape, as in the reference
 svg.append(

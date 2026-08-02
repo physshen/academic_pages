@@ -27,5 +27,7 @@ design:
 
 advanced:
   # text-shadow is inherited, so setting it on the section reaches the title.
-  css_style: 'text-shadow: 0 1px 14px rgba(0,0,0,0.85);'
+  # Layered shadow acts as a soft dark plate behind the glyphs, which is what
+  # keeps the white title readable now that the overlay is nearly transparent.
+  css_style: 'text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 18px rgba(0,0,0,0.9), 0 0 42px rgba(0,0,0,0.7);'
 ---

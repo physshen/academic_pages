@@ -13,9 +13,9 @@ design:
     # Landau double well, order parameter driven over the barrier into the
     # metastable minimum. Regenerate with `python3 scripts/gen_landau.py`.
     image: 'headers/landau.svg'
-    # The artwork already carries its own dark ground, so it needs far less
-    # overlay than a photograph would.
-    image_darken: 0.2
+    # The artwork carries its own ground, so brightness is tuned in the SVG
+    # gradient rather than here; this stays near zero.
+    image_darken: 0.05
     image_size: cover
     image_position: center
     image_parallax: false
@@ -24,5 +24,5 @@ design:
     padding: ['130px', '0', '130px', '0']
 
 advanced:
-  css_style: 'text-shadow: 0 1px 14px rgba(0,0,0,0.85);'
+  css_style: 'text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 18px rgba(0,0,0,0.9), 0 0 42px rgba(0,0,0,0.7);'
 ---
