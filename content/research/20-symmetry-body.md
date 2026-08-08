@@ -11,8 +11,9 @@ design:
 ---
 
 Phases of quantum matter are classified by the
-symmetries their collective state breaks. Magnetic, ferroelectric, and charge-ordered phases
-each lower the symmetry of the underlying lattice, and in multiferroics several such orders
+symmetries their collective state breaks. 
+Magnetic, ferroelectric, and charge-ordered phases
+each lower the symmetry of the underlying lattice.
 Nonlinear optical techniques, in particular rotational-anisotropy second-harmonic generation
 (RA-SHG), are sensitive to inversion and rotational symmetry breaking and can determine the point
 group of an ordered state. Extending these measurements into the time domain reveals how order
