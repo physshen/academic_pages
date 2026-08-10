@@ -1,0 +1,22 @@
+{{/*
+  Marks my own name in a publication author list.
+
+  Usage (inside an author list in a content file):
+
+      Bryan T. Fichera, Baiqing Lv, {{< me >}}, Nuh Gedik.
+
+  Pass a positional argument when a journal's list abbreviates given names:
+
+      {{< me "Z. Shen" >}}
+
+  The styling lives in `assets/scss/custom.scss` under `.author-me`, not in a
+  `<style>` block here: the shortcode is expanded mid-paragraph, and `--minify`
+  strips the whitespace around an inline `<style>`, which swallowed the space
+  after the preceding author's comma.
+
+  Every action below carries `{{- -}}` trim markers, and the file deliberately
+  ends without a trailing newline — for the same reason, any stray whitespace
+  shows up as a gap before the following comma or dagger.
+*/ -}}
+{{- $name := .Get 0 | default "Zongqi Shen" -}}
+<span class="author-me">{{ $name }}</span>

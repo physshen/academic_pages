@@ -1,0 +1,23 @@
+// Site-wide style overrides.
+//
+// Wowchemy compiles this file into `wowchemy.css` after its own styles, so
+// anything here wins without needing `!important`. Verified against the pinned
+// Hugo 0.121.2 build — see `netlify.toml`.
+
+// My own name in a publication author list, emitted by the `me` shortcode
+// (`layouts/shortcodes/me.html`). Bold with an accent-coloured underline, so
+// the name is findable at a glance in a twenty-author list without shouting
+// like a highlighter.
+//
+// The colour matches the `minimal` theme's primary, selected in
+// `config/_default/params.toml`. If that theme changes, update this hex.
+.author-me {
+  font-weight: 700;
+  text-decoration: underline;
+  // These three degrade to a plain underline on older browsers.
+  text-decoration-color: #2962ff;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  // Keep the rule continuous rather than notched around descenders.
+  text-decoration-skip-ink: none;
+}
