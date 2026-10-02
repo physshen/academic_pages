@@ -61,7 +61,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
+I am a 5th year Ph.D. student at [MIT Physics](https://physics.mit.edu/) working with [Prof. Nuh
 Gedik](https://physics.mit.edu/faculty/nuh-gedik/) and his [group](https://web.mit.edu/gediklab/). I got my bachelor degree in physics at [Fudan
 University](https://www.fudan.edu.cn/en/). My current research focuses on understanding the 
 dynamics in strongly correlated systems and engineering new phases of matter out of equilibrium. The experimental methods include ultrafast optical spectroscopy (tr-SHG, transient reflectivity etc.) and ultrafast diffraction(UED, tr-XRD). 
