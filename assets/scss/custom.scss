@@ -87,11 +87,27 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+// Normal text is 18px, weight 400, at every screen width. The theme sets the
+// root size to 0.77x `font_size` below 58em (13.86px for "M"), which shrank
+// all text on phones and narrow windows; pin the root to `font_size` itself
+// ("M" = 18px in params.toml) so 1rem is 18px everywhere.
+html {
+  font-size: #{$sta-font-size}px;
+}
+
 // Page and section titles (Publications, Biography, Contact, ...) bold, with
 // a touch of negative tracking at display size.
 h1 {
   font-weight: 700;
   letter-spacing: -0.01em;
+}
+// With the root no longer shrunk on phones (see `html` above), the theme's
+// 2.25rem titles would be 40px there and research band titles would run to
+// three lines; keep phone titles at their previous ~31px.
+@media (max-width: 575.98px) {
+  h1 {
+    font-size: 1.75rem;
+  }
 }
 
 // Navbar: translucent white with a backdrop blur, a hairline instead of a
@@ -131,6 +147,19 @@ h1 {
 #profile .portrait-title h2 {
   font-weight: 700;
 }
+// Role and affiliation under the name: normal text (theme: weight 300).
+#profile .portrait-title h3 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+// Education: course and institution at normal text size (theme: 0.9rem and
+// 0.75rem); the institution keeps the theme's muted colour for hierarchy.
+ul.ul-edu li .description p.course,
+ul.ul-edu li .description p.institution {
+  font-size: 1rem;
+  font-weight: 400;
+}
 
 // Interests as pill tags rather than a bulleted list.
 ul.ul-interests {
@@ -145,8 +174,8 @@ ul.ul-interests li {
   border-radius: 999px;
   background: #e8f0fa;
   color: #1b3a6b;
-  font-size: 0.85rem;
-  font-weight: 500;
+  font-size: 1rem;
+  font-weight: 400;
   line-height: 1.4;
 }
 
