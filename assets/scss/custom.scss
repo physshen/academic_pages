@@ -30,7 +30,7 @@
 .pub-list {
   // Section headings (Preprints, 2026, 2025, ...): clear break between groups.
   h2 {
-    font-weight: 600;
+    font-weight: 500;
     margin-top: 1.8em;
     margin-bottom: 0.2em;
   }
@@ -43,6 +43,7 @@
   // Paper titles: a little larger than body text, not a full heading size.
   h3 {
     font-size: 1.15em;
+    font-weight: 600;
     line-height: 1.4;
     margin-top: 1.6em;
     margin-bottom: 0.45em;
@@ -54,10 +55,11 @@
   }
 
   // The legend's rule sits close to the legend, like the reference page,
-  // and is as light as the site's other hairlines.
+  // and is as light as the site's other hairlines. The theme draws `hr` as a
+  // 1px dark gradient background (not a border), so override the background.
   hr {
     margin-top: 0.4em;
-    border-top-color: rgba(0, 0, 0, 0.08);
+    background: rgba(0, 0, 0, 0.1);
   }
 }
 
@@ -75,7 +77,7 @@
 }
 
 // ===========================================================================
-// Site-wide refresh: Inter type (font set `data/fonts/modern.toml`), a
+// Site-wide refresh: Open Sans type (font set `data/fonts/open_sans.toml`), a
 // frosted navbar, and softer surfaces. Colours reuse the `minimal` theme's
 // primary (#2962ff) and the research bands' ground (#e8f0fa).
 // ===========================================================================
@@ -85,14 +87,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-// Inter is drawn for text sizes; tighten it at display sizes and make page
-// and section titles (Publications, Biography, Contact, ...) properly bold.
-h1, h2, h3 {
-  letter-spacing: -0.015em;
-}
+// Page and section titles (Publications, Biography, Contact, ...) bold, with
+// a touch of negative tracking at display size.
 h1 {
   font-weight: 700;
-  letter-spacing: -0.025em;
+  letter-spacing: -0.01em;
 }
 
 // Navbar: translucent white with a backdrop blur, a hairline instead of a

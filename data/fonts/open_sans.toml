@@ -1,0 +1,14 @@
+# Font style metadata
+name = "Open Sans"
+
+# Open Sans throughout, as on zhuquanzhang.com (Google Sites). Loaded through
+# the Google Fonts CSS2 API (the leading `family=` tells the theme to use API
+# v2): 400-700 upright for text, headings and paper titles, plus 400/700
+# italic for journal names.
+google_fonts = "family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&family=Roboto+Mono"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Roboto Mono"
