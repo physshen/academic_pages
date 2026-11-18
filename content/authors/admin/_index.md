@@ -67,6 +67,6 @@ University](https://www.fudan.edu.cn/en/).
 
 My current research focuses on understanding the 
 dynamics in strongly correlated systems and engineering new phases of matter out of equilibrium. 
-The experimental methods include ultrafast optical spectroscopy (<span class="text-nowrap">tr-SHG</span>, transient reflectivity etc.) and ultrafast diffraction (UED, <span class="text-nowrap">tr-XRD</span>). 
+The experimental methods include ultrafast optical spectroscopy (<span class="text-nowrap">tr-SHG</span>, &Delta;<i>R</i>/<i>R</i>, field-resolved spectroscopy, etc.) and ultrafast diffraction (UED, <span class="hext-nowrap">tr-XRD</span>). 
 
 Please drop me a line if you are interested in my research!
