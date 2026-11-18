@@ -21,3 +21,39 @@
   // Keep the rule continuous rather than notched around descenders.
   text-decoration-skip-ink: none;
 }
+
+// Publications page (`content/publications/_index.md`), laid out after
+// zhuquanzhang.com/publications: Preprints then one `##` heading per year,
+// and each entry as a `###` title, an author line, and a venue line. The
+// markdown is wrapped in `<div class="pub-list">` so these rules stay off
+// every other page.
+.pub-list {
+  // Section headings (Preprints, 2026, 2025, ...): clear break between groups.
+  h2 {
+    margin-top: 1.8em;
+    margin-bottom: 0.2em;
+  }
+
+  // ...except the first one, which already sits under the legend's rule.
+  hr + h2 {
+    margin-top: 0.8em;
+  }
+
+  // Paper titles: a little larger than body text, not a full heading size.
+  h3 {
+    font-size: 1.15em;
+    line-height: 1.4;
+    margin-top: 1.6em;
+    margin-bottom: 0.45em;
+  }
+
+  // Author line, directly under the title.
+  h3 + p {
+    margin-bottom: 0.45em;
+  }
+
+  // The legend's rule sits close to the legend, like the reference page.
+  hr {
+    margin-top: 0.4em;
+  }
+}
