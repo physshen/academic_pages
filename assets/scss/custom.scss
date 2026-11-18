@@ -30,6 +30,7 @@
 .pub-list {
   // Section headings (Preprints, 2026, 2025, ...): clear break between groups.
   h2 {
+    font-weight: 600;
     margin-top: 1.8em;
     margin-bottom: 0.2em;
   }
@@ -52,9 +53,11 @@
     margin-bottom: 0.45em;
   }
 
-  // The legend's rule sits close to the legend, like the reference page.
+  // The legend's rule sits close to the legend, like the reference page,
+  // and is as light as the site's other hairlines.
   hr {
     margin-top: 0.4em;
+    border-top-color: rgba(0, 0, 0, 0.08);
   }
 }
 
@@ -69,4 +72,103 @@
     hyphens: auto;
     -webkit-hyphens: auto;
   }
+}
+
+// ===========================================================================
+// Site-wide refresh: Inter type (font set `data/fonts/modern.toml`), a
+// frosted navbar, and softer surfaces. Colours reuse the `minimal` theme's
+// primary (#2962ff) and the research bands' ground (#e8f0fa).
+// ===========================================================================
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Inter is drawn for text sizes; tighten it at display sizes and make page
+// and section titles (Publications, Biography, Contact, ...) properly bold.
+h1, h2, h3 {
+  letter-spacing: -0.015em;
+}
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+// Navbar: translucent white with a backdrop blur, a hairline instead of a
+// drop shadow. Falls back to near-opaque white where blur is unsupported.
+.navbar {
+  background: rgba(255, 255, 255, 0.82);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  box-shadow: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .navbar { background: rgba(255, 255, 255, 0.97); }
+}
+// The opened mobile menu sits inside the navbar; give it a solid ground so
+// page text does not show through the list. It is sized to the viewport and
+// centred (the navbar's inner container is narrower than the screen), with
+// padding that puts the links back on the container's left edge.
+@media (max-width: 991.98px) {
+  .navbar-collapse.show,
+  .navbar-collapse.collapsing {
+    background: #fff;
+    flex-basis: 100vw;
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding: 0 calc(50vw - 50%) 0.75rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  }
+}
+
+// Home: profile column.
+#profile .avatar {
+  box-shadow: 0 0 0 6px #fff, 0 0 0 7px rgba(0, 0, 0, 0.06), 0 12px 32px rgba(27, 58, 107, 0.18);
+}
+#profile .portrait-title h2 {
+  font-weight: 700;
+}
+
+// Interests as pill tags rather than a bulleted list.
+ul.ul-interests {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+ul.ul-interests li {
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  background: #e8f0fa;
+  color: #1b3a6b;
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+// Contact: a shorter map with rounded corners.
+#map {
+  height: 280px;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+// Research page text sections (`advanced.css_class: research-text`): cap the
+// line length so paragraphs are not ~130 characters wide on desktop. The row
+// is already `justify-content-center`, so the column stays centred.
+.research-text .col-12 {
+  max-width: 800px;
+}
+
+// Footer: one quiet line.
+.site-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  padding-top: 1.5rem;
+  margin-top: 1rem;
 }

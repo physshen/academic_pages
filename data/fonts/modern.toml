@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Modern"
+
+# Inter throughout, loaded through the Google Fonts CSS2 API (the leading
+# `family=` tells the theme to use API v2, which takes weight ranges).
+google_fonts = "family=Inter:wght@400;500;600;700&family=Roboto+Mono"
+
+# Font families
+heading_font = "Inter"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "Roboto Mono"

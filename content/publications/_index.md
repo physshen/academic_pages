@@ -29,7 +29,7 @@ K. H. Oh\*, H. Ning\*, {{< me "Z. Shen" >}}\*, Y. Su\*, J. Maier, G. Kang, H. Ch
 
 arXiv:2608.06456
 
-### [Higgs-mode electromagnon in the spin-spiral multiferroic CuBr$_{2}$](https://arxiv.org/abs/2504.18716)
+### [Higgs-mode electromagnon in the spin-spiral multiferroic CuBr<sub>2</sub>](https://arxiv.org/abs/2504.18716)
 
 B. T. Fichera\*, A. Kumar\*, B. Lv\*, {{< me "Z. Shen" >}}, K. Morey, Q. Song, B. Ilyas, T. Luo, R. Comin, T. Senthil, N. Gedik†
 
@@ -43,7 +43,7 @@ arXiv:2502.14800
 
 ## 2026
 
-### Optical imaging of chiral magnetic domains in the odd-parity magnet NiI$_{2}$
+### Optical imaging of chiral magnetic domains in the odd-parity magnet NiI<sub>2</sub>
 
 B. Ilyas\*, {{< me "Z. Shen" >}}\*, E. Ergeçen\*, J. B. Maier, Q. Song, J. Li, S. Patel, R. Comin, N. Gedik†
 

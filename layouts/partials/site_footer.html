@@ -1,0 +1,26 @@
+{{/* LOCAL OVERRIDE of the theme partial.
+     Upstream prints the copyright and a separate two-line "Published with
+     Wowchemy — the free, open source website builder..." notice. This keeps
+     the privacy/terms links and the license notice as upstream, and folds the
+     credit into the copyright line so the footer is a single quiet line. */}}
+<footer class="site-footer">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+
+  {{ partial "site_footer_license" . }}
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify }} &middot; {{ end }}Built with
+    <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and
+    <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a>
+  </p>
+</footer>
