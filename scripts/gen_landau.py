@@ -5,11 +5,17 @@ barrier into the metastable minimum by photoexcitation.
 Composition follows the reference screenshot: a single landscape, gradient
 stroke running blue -> purple -> red, filled ball in the deeper (left) well,
 and a curved arrow arcing over the barrier into the shallower (right) well.
-Recoloured for a dark band so the white section title stays legible.
+No ground of its own: the band colour set in
+`content/research/30-engineering-band.md` shows through, and the ball and
+arrow are navy to read on that light ground.
 """
 import math
+import os
 
 W, H = 2000, 350
+
+# Ball and arrow colour.
+INK = "#1b3a6b"
 
 # F(eta) = eta^4 - 2 eta^2 + c eta   (c tilts the well, making the left one deeper)
 C = 0.35
@@ -68,12 +74,6 @@ svg.append(
     f'photoexcitation">'
 )
 svg.append('<defs>')
-svg.append(
-    '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
-    '<stop offset="0%" stop-color="#1a3c76"/>'
-    '<stop offset="50%" stop-color="#3468b5"/>'
-    '<stop offset="100%" stop-color="#1d4585"/></linearGradient>'
-)
 # blue -> purple -> red along the landscape, as in the reference
 svg.append(
     '<linearGradient id="land" x1="0" y1="0" x2="1" y2="0" '
@@ -90,8 +90,6 @@ svg.append(
 )
 svg.append('</defs>')
 
-svg.append(f'<rect width="{W}" height="{H}" fill="url(#bg)"/>')
-
 # the landscape
 svg.append(
     f'<path d="{curve_path()}" fill="none" stroke="url(#land)" stroke-width="14" '
@@ -107,22 +105,24 @@ c1 = (xl + 120, 78)
 c2 = (xr - 110, 78)
 svg.append(
     f'<path d="M {sx:.1f} {sy:.1f} C {c1[0]:.1f} {c1[1]} {c2[0]:.1f} {c2[1]} '
-    f'{ex:.1f} {ey:.1f}" fill="none" stroke="#ffffff" stroke-width="9" '
+    f'{ex:.1f} {ey:.1f}" fill="none" stroke="{INK}" stroke-width="9" '
     f'stroke-linecap="round" opacity="0.94"/>'
 )
 # arrowhead aligned with the outgoing tangent (c2 -> end)
 ang = math.degrees(math.atan2(ey - c2[1], ex - c2[0]))
 svg.append(
-    f'<polygon points="0,0 -46,-27 -46,27" fill="#ffffff" opacity="0.94" '
+    f'<polygon points="0,0 -46,-27 -46,27" fill="{INK}" opacity="0.94" '
     f'transform="translate({ex:.1f},{ey:.1f}) rotate({ang:.1f})"/>'
 )
 
 # order parameter resting in the deeper minimum
-svg.append(f'<circle cx="{xl:.1f}" cy="{yl:.1f}" r="26" fill="#ffffff" filter="url(#glow)"/>')
+svg.append(f'<circle cx="{xl:.1f}" cy="{yl:.1f}" r="26" fill="{INK}" filter="url(#glow)"/>')
 
 svg.append('</svg>')
 
-out = "/Users/olivershen/Github/academic_pages/static/media/headers/landau.svg"
+out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..",
+                   "static", "media", "headers", "landau.svg")
+out = os.path.normpath(out)
 with open(out, "w") as f:
     f.write("\n".join(svg) + "\n")
 print("wrote", out)

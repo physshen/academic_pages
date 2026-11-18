@@ -57,3 +57,16 @@
     margin-top: 0.4em;
   }
 }
+
+// Biography on the home page (About widget, section id `about`). Justified so
+// the paragraph has a straight right edge beside the avatar column. Only from
+// the `md` breakpoint up: in a phone-width column, justification opens wide
+// gaps between words. Hyphenation (English, from the page's `lang`) lets long
+// words split at line ends, which keeps the word spacing even.
+@media (min-width: 768px) {
+  #about .article-style p {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+}

@@ -9,20 +9,20 @@ title: Engineering quantum phases
 design:
   columns: '1'
   background:
-    color: '#1b3a6b'
+    color: '#e8f0fa'
     # Landau double well, order parameter driven over the barrier into the
     # metastable minimum. Regenerate with `python3 scripts/gen_landau.py`.
     image: 'headers/landau.svg'
-    # The artwork carries its own ground, so brightness is tuned in the SVG
-    # gradient rather than here; this stays near zero.
-    image_darken: 0.05
+    # The SVG has a transparent ground, so `color` above shows through and
+    # no overlay is needed.
+    image_darken: 0
     image_size: cover
     image_position: center
     image_parallax: false
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding: ['130px', '0', '130px', '0']
 
 advanced:
-  css_style: 'text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 18px rgba(0,0,0,0.9), 0 0 42px rgba(0,0,0,0.7);'
+  css_style: 'text-shadow: 0 0 4px #fff, 0 0 14px #fff, 0 0 32px rgba(255,255,255,0.9);'
 ---
