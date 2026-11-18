@@ -20,5 +20,3 @@ advanced:
 > A craftsman who wishes to do his work well must first sharpen his tools.
 >
 > — Confucius, *Analects*, Book XV
-
-K. A. Morey, B. T. Fichera, B. Lv, {{< me "Z. Shen" >}}, N. Gedik, "Automated polarization rotation for multi-axis rotational-anisotropy second harmonic generation experiments", [Review of Scientific Instruments 96, 043002 (2025)](https://pubs.aip.org/aip/rsi/article/96/4/043002/3342451/Automated-polarization-rotation-for-multi-axis).

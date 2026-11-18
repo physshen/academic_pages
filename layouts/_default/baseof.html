@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+{{- /* LOCAL OVERRIDE of the theme's baseof.html; only the `data-target` on
+     <body> differs from upstream.
+
+     Upstream points Bootstrap scrollspy at the navbar on the home page *and*
+     on every widget page. The research page is a widget page whose menu links
+     all go to other pages, so scrollspy tracks no targets; at the bottom of
+     the page it then clears every `.active` nav link and activates nothing,
+     and the highlighted "Research" tab went grey. Scrollspy on the navbar is
+     only useful on the home page (#about / #contact), so limit it to that;
+     other pages fall back to upstream's #TableOfContents target, which leaves
+     the navbar's server-rendered active link alone. */ -}}
+{{- $language_code := site.LanguageCode | default "en-us" -}}
+<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
+
+{{ partial "site_head" . }}
+
+{{ $show_navbar := site.Params.main_menu.enable | default true }}
+{{- $highlight_active_link := site.Params.main_menu.highlight_active_link | default true -}}
+<body id="top" data-spy="scroll" {{ if $show_navbar }}data-offset="70"{{end}} data-target="{{ if and $highlight_active_link .IsHome }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}">
+
+  {{/* Initialise Wowchemy. */}}
+  {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
+  {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
+  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md */\n" }}
+  {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
+  {{ $wcDarkLightEnabled := site.Params.day_night | default false }}
+  {{ $wcIsSiteThemeDark := not (.Scratch.Get "light") | default false }}
+  {{ $js_params := dict "wcDarkLightEnabled" $wcDarkLightEnabled "wcIsSiteThemeDark" $wcIsSiteThemeDark }}
+  {{ $js_bundle := resources.Get "js/wowchemy-init.js" | js.Build (dict "params" $js_params) }}
+  {{- if eq hugo.Environment "production" -}}
+    {{ $js_bundle = $js_bundle | minify }}
+  {{- end -}}
+  {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/wowchemy-init.min.js" }}
+  {{- if eq hugo.Environment "production" -}}
+    {{- $js_bundle = $js_bundle | fingerprint "md5" -}}
+  {{- end -}}
+  <script src="{{ $js_bundle.RelPermalink }}"></script>
+
+  {{ partial "search" . }}
+
+  <div class="page-header">
+    {{ partial "navbar" . }}
+  </div>
+
+  <div class="page-body">
+    {{ block "main" . }}{{ end }}
+  </div>
+
+  <div class="page-footer">
+    {{/* Docs and Updates layouts include the site footer in a different location. */}}
+    {{ if not (in (slice "book" "docs" "updates") .Type) }}
+    <div class="container">
+      {{ partial "site_footer" . }}
+    </div>
+    {{ end }}
+  </div>
+
+  {{ partial "citation" . }}
+
+  {{ partial "site_js" . }}
+
+</body>
+</html>

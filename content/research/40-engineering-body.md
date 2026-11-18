@@ -24,7 +24,3 @@ favor of one another, producing transient or metastable phases with distinct sym
 topology. Understanding when such states arise, how long they persist, and which couplings
 stabilize them is central to turning light-induced control into a route toward new material
 functionality.
-
-M. Mogi, D. Choi, K. H. Oh, ..., {{< me "Z. Shen" >}}, et al., "Discovery of transient topological crystalline order in optically driven SnSe", [arXiv:2502.14800 (2025)](https://arxiv.org/abs/2502.14800).
-
-B. T. Fichera, B. Lv, K. Morey, {{< me "Z. Shen" >}}, et al., "Light-induced reorientation transition in an antiferromagnetic semiconductor", [Physical Review X 15, 011044 (2025)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011044).

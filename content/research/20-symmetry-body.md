@@ -24,7 +24,3 @@ Nonlinear optical techniques, in particular rotational-anisotropy second-harmoni
 group of an ordered state. Extending these measurements into the time domain reveals how order
 parameters melt, reorient, and recover after excitation, disentangling the electronic, spin,
 and lattice contributions that are inseparable in equilibrium.
-
-B. Ilyas, {{< me "Z. Shen" >}}, E. Ergeçen, et al., "Optical imaging of chiral magnetic domains in the odd-parity magnet NiI<sub>2</sub>", Physical Review Letters (accepted).
-
-B. T. Fichera, A. Kumar, B. Lv, {{< me "Z. Shen" >}}, et al., "Higgs-mode electromagnon in the spin-spiral multiferroic CuBr<sub>2</sub>", [arXiv:2504.18716 (2025)](https://arxiv.org/abs/2504.18716).
